@@ -1,0 +1,489 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//National League Calendar Generator//
+X-WR-TIMEZONE:Europe/Zurich
+BEGIN:VEVENT
+SUMMARY:EHC Biel-Bienne - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20260915T194500
+DTEND;TZID=Europe/Zurich:20260915T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000002-ehcb-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Fribourg-Gott
+ éron
+LOCATION:Tissot Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - Lausanne HC
+DTSTART;TZID=Europe/Zurich:20260918T194500
+DTEND;TZID=Europe/Zurich:20260918T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000010-fri-lhc@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Lausanne HC
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC Rapperswil-Jona Lakers - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20260919T194500
+DTEND;TZID=Europe/Zurich:20260919T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000018-scrj-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Frib
+ ourg-Gottéron
+LOCATION:St.Galler Kantonalbank Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Davos - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20260922T194500
+DTEND;TZID=Europe/Zurich:20260922T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000115-hcd-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: Fribourg-Gottéron
+LOCATION:zondacrypto-Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genève-Servette HC - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20260925T194500
+DTEND;TZID=Europe/Zurich:20260925T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000031-gshc-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Fribourg-G
+ ottéron
+LOCATION:Les Vernets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - SCL Tigers
+DTSTART;TZID=Europe/Zurich:20260926T194500
+DTEND;TZID=Europe/Zurich:20260926T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000039-fri-scl@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SCL Tigers
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - SC Bern
+DTSTART;TZID=Europe/Zurich:20260929T194500
+DTEND;TZID=Europe/Zurich:20260929T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000045-fri-scb@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Bern
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EHC Kloten - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261002T194500
+DTEND;TZID=Europe/Zurich:20261002T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000053-ehck-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Fribourg-Gottéron
+LOCATION:SWISS Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - HC Ambri-Piotta
+DTSTART;TZID=Europe/Zurich:20261003T194500
+DTEND;TZID=Europe/Zurich:20261003T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000059-fri-hcap@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ambri-Pi
+ otta
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - HC Ajoie
+DTSTART;TZID=Europe/Zurich:20261008T200000
+DTEND;TZID=Europe/Zurich:20261008T220000
+DTSTAMP:20260724T200908Z
+UID:20271105000066-fri-hca@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ajoie
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZSC Lions - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261010T194500
+DTEND;TZID=Europe/Zurich:20261010T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000077-zsc-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Fribourg-Gottéron
+LOCATION:Swiss Life Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - HC Lugano
+DTSTART;TZID=Europe/Zurich:20261017T194500
+DTEND;TZID=Europe/Zurich:20261017T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000088-fri-hcl@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Lugano
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Ambri-Piotta - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261020T194500
+DTEND;TZID=Europe/Zurich:20261020T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000092-hcap-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Fribourg-Gott
+ éron
+LOCATION:Gottardo Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - EHC Biel-Bienne
+DTSTART;TZID=Europe/Zurich:20261023T194500
+DTEND;TZID=Europe/Zurich:20261023T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000101-fri-ehcb@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Biel-Bi
+ enne
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lausanne HC - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261024T194500
+DTEND;TZID=Europe/Zurich:20261024T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000111-lhc-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Fribourg-Gottéron
+LOCATION:Vaudoise Aréna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - HC Davos
+DTSTART;TZID=Europe/Zurich:20261027T194500
+DTEND;TZID=Europe/Zurich:20261027T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000024-fri-hcd@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Davos
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCL Tigers - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261028T194500
+DTEND;TZID=Europe/Zurich:20261028T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000133-scl-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: Fribourg-Gottéron
+LOCATION:emmental versicherung arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - Genève-Servette HC
+DTSTART;TZID=Europe/Zurich:20261030T194500
+DTEND;TZID=Europe/Zurich:20261030T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000123-fri-gshc@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Genève-Ser
+ vette HC
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC Bern - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261113T194500
+DTEND;TZID=Europe/Zurich:20261113T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000134-scb-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: Fribourg-Gottéron
+LOCATION:PostFinance Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - EHC Kloten
+DTSTART;TZID=Europe/Zurich:20261114T194500
+DTEND;TZID=Europe/Zurich:20261114T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000143-fri-ehck@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Kloten
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers
+DTSTART;TZID=Europe/Zurich:20261120T194500
+DTEND;TZID=Europe/Zurich:20261120T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000150-fri-scrj@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Rappersw
+ il-Jona Lakers
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Ajoie - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261121T194500
+DTEND;TZID=Europe/Zurich:20261121T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000155-hca-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Fribourg-Gottéron
+LOCATION:Raiffeisen Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - ZSC Lions
+DTSTART;TZID=Europe/Zurich:20261124T194500
+DTEND;TZID=Europe/Zurich:20261124T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000164-fri-zsc@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: ZSC Lions
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - EV Zug
+DTSTART;TZID=Europe/Zurich:20261126T194500
+DTEND;TZID=Europe/Zurich:20261126T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000172-fri-evz@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EV Zug
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Lugano - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261127T194500
+DTEND;TZID=Europe/Zurich:20261127T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000180-hcl-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Fribourg-Gottéron
+LOCATION:Cornèr Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EHC Biel-Bienne - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261205T194500
+DTEND;TZID=Europe/Zurich:20261205T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000193-ehcb-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Fribourg-Gott
+ éron
+LOCATION:Tissot Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - HC Ambri-Piotta
+DTSTART;TZID=Europe/Zurich:20261206T154500
+DTEND;TZID=Europe/Zurich:20261206T174500
+DTSTAMP:20260724T200908Z
+UID:20271105000184-fri-hcap@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ambri-Pi
+ otta
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lausanne HC - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261216T194500
+DTEND;TZID=Europe/Zurich:20261216T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000202-lhc-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Fribourg-Gottéron
+LOCATION:Vaudoise Aréna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - HC Davos
+DTSTART;TZID=Europe/Zurich:20261218T194500
+DTEND;TZID=Europe/Zurich:20261218T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000206-fri-hcd@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Davos
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genève-Servette HC - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261219T194500
+DTEND;TZID=Europe/Zurich:20261219T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000214-gshc-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Fribourg-G
+ ottéron
+LOCATION:Les Vernets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - SCL Tigers
+DTSTART;TZID=Europe/Zurich:20261221T194500
+DTEND;TZID=Europe/Zurich:20261221T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000221-fri-scl@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SCL Tigers
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC Bern - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20261223T194500
+DTEND;TZID=Europe/Zurich:20261223T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000226-scb-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: Fribourg-Gottéron
+LOCATION:PostFinance Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EHC Kloten - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20270102T194500
+DTEND;TZID=Europe/Zurich:20270102T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000236-ehck-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Fribourg-Gottéron
+LOCATION:SWISS Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers
+DTSTART;TZID=Europe/Zurich:20270103T154500
+DTEND;TZID=Europe/Zurich:20270103T174500
+DTSTAMP:20260724T200908Z
+UID:20271105000241-fri-scrj@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Rappersw
+ il-Jona Lakers
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EV Zug - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20270105T194500
+DTEND;TZID=Europe/Zurich:20270105T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000084-evz-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: Fribourg-Gottéron
+LOCATION:OYM hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Ajoie - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20270108T194500
+DTEND;TZID=Europe/Zurich:20270108T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000246-hca-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Fribourg-Gottéron
+LOCATION:Raiffeisen Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - ZSC Lions
+DTSTART;TZID=Europe/Zurich:20270109T194500
+DTEND;TZID=Europe/Zurich:20270109T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000255-fri-zsc@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: ZSC Lions
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - EV Zug
+DTSTART;TZID=Europe/Zurich:20270115T194500
+DTEND;TZID=Europe/Zurich:20270115T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000262-fri-evz@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EV Zug
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Lugano - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20270116T194500
+DTEND;TZID=Europe/Zurich:20270116T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000270-hcl-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Fribourg-Gottéron
+LOCATION:Cornèr Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Ambri-Piotta - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20270122T194500
+DTEND;TZID=Europe/Zurich:20270122T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000275-hcap-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Fribourg-Gott
+ éron
+LOCATION:Gottardo Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - EHC Biel-Bienne
+DTSTART;TZID=Europe/Zurich:20270123T194500
+DTEND;TZID=Europe/Zurich:20270123T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000282-fri-ehcb@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Biel-Bi
+ enne
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - Lausanne HC
+DTSTART;TZID=Europe/Zurich:20270129T194500
+DTEND;TZID=Europe/Zurich:20270129T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000290-fri-lhc@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Lausanne HC
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HC Davos - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20270130T194500
+DTEND;TZID=Europe/Zurich:20270130T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000297-hcd-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: Fribourg-Gottéron
+LOCATION:zondacrypto-Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - Genève-Servette HC
+DTSTART;TZID=Europe/Zurich:20270202T194500
+DTEND;TZID=Europe/Zurich:20270202T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000304-fri-gshc@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Genève-Ser
+ vette HC
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - SC Bern
+DTSTART;TZID=Europe/Zurich:20270204T194500
+DTEND;TZID=Europe/Zurich:20270204T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000319-fri-scb@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Bern
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCL Tigers - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20270205T194500
+DTEND;TZID=Europe/Zurich:20270205T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000314-scl-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: Fribourg-Gottéron
+LOCATION:emmental versicherung arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - EHC Kloten
+DTSTART;TZID=Europe/Zurich:20270216T194500
+DTEND;TZID=Europe/Zurich:20270216T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000325-fri-ehck@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Kloten
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC Rapperswil-Jona Lakers - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20270219T194500
+DTEND;TZID=Europe/Zurich:20270219T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000335-scrj-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Frib
+ ourg-Gottéron
+LOCATION:St.Galler Kantonalbank Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - HC Ajoie
+DTSTART;TZID=Europe/Zurich:20270220T194500
+DTEND;TZID=Europe/Zurich:20270220T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000339-fri-hca@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ajoie
+LOCATION:BCF Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZSC Lions - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20270225T194500
+DTEND;TZID=Europe/Zurich:20270225T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000350-zsc-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Fribourg-Gottéron
+LOCATION:Swiss Life Arena
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EV Zug - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20270227T194500
+DTEND;TZID=Europe/Zurich:20270227T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000357-evz-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: Fribourg-Gottéron
+LOCATION:OYM hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fribourg-Gottéron - HC Lugano
+DTSTART;TZID=Europe/Zurich:20270301T194500
+DTEND;TZID=Europe/Zurich:20270301T214500
+DTSTAMP:20260724T200908Z
+UID:20271105000360-fri-hcl@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Lugano
+LOCATION:BCF Arena
+END:VEVENT
+END:VCALENDAR
