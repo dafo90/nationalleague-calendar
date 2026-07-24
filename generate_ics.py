@@ -12,9 +12,10 @@ import pytz
 
 
 API_URL = "https://www.nationalleague.ch/api/games"
+
 OUTPUT_DIR = "output"
+
 TIMEZONE = "Europe/Zurich"
-EXHIBITION_TAG = "Exhibition"
 
 # Games before this date are considered part of an older season (e.g.
 # exhibition games played during the 2025-2026 season) and are skipped.
@@ -166,7 +167,7 @@ def create_event(game):
         summary += f" ({score})"
 
     if is_exhibition:
-        summary += f" | {EXHIBITION_TAG}"
+        summary += " [Amichevole]"
 
     # The API has been observed reusing the same gameId for genuinely
     # different matches. Including the team short names in the UID
@@ -234,7 +235,7 @@ def create_event(game):
     )
 
     description = [
-        "National League" if not is_exhibition else f"National League ({EXHIBITION_TAG})",
+        "National League" if not is_exhibition else "National League (Amichevole)",
         "",
         f"Home: {home}",
         f"Away: {away}",
@@ -256,6 +257,23 @@ def create_event(game):
     )
 
     return event
+
+
+def event_content_signature(event):
+    """
+    Returns a tuple of the fields that represent a "real" change to a
+    game (as opposed to DTSTAMP, which always differs run to run and
+    would otherwise make every regenerated file look different even
+    when nothing about the game actually changed).
+    """
+
+    return (
+        str(event.get("summary")),
+        event.get("dtstart").dt,
+        event.get("dtend").dt,
+        str(event.get("location")),
+        str(event.get("description")),
+    )
 
 
 def load_existing_events(path):
@@ -349,8 +367,20 @@ def main():
         home = get_team_name(game, "home")
         away = get_team_name(game, "away")
 
-        event = create_event(game)
-        uid = str(event.get("uid"))
+        new_event = create_event(game)
+        uid = str(new_event.get("uid"))
+
+        existing_event = events_by_calendar["all"].get(uid)
+
+        if existing_event is not None and event_content_signature(
+            existing_event
+        ) == event_content_signature(new_event):
+            # Nothing actually changed for this game: keep the
+            # previously stored event (and its original DTSTAMP)
+            # instead of one that only differs by "now".
+            event = existing_event
+        else:
+            event = new_event
 
         events_by_calendar["all"][uid] = event
 
