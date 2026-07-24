@@ -3,6 +3,7 @@
 import html
 import os
 import re
+import unicodedata
 import requests
 from datetime import datetime, timedelta, timezone
 
