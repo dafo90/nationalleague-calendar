@@ -2,7 +2,7 @@
 
 Automatically generated `.ics` calendars for Swiss National League (ice hockey) games, built from the [nationalleague.ch](https://www.nationalleague.ch) API.
 
-A [scheduled workflow](.github/workflows/schedule.yml) runs once a day and regenerates the calendars, which are then published via GitHub Pages so you can subscribe to them directly from your own calendar app (Google Calendar, Apple Calendar, Outlook, etc.).
+A [scheduled workflow](.github/workflows/schedule.yml) runs once a day and regenerates the calendars, committing the updated `.ics` files back to this repository so you can subscribe to them directly from your own calendar app (Google Calendar, Apple Calendar, Outlook, etc.) via their raw GitHub URLs.
 
 ## How it works
 
@@ -18,40 +18,36 @@ Use "Add calendar from URL" (or equivalent) in your calendar app, pointing to th
 
 ### All games
 
-| Calendar                  | Link                                                     |
-| ------------------------- | -------------------------------------------------------- |
-| All National League games | `https://dafo.github.io/nationalleague-calendar/all.ics` |
+| Calendar                  | Link                                                                                     |
+| ------------------------- | ---------------------------------------------------------------------------------------- |
+| All National League games | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/all.ics` |
 
 ### Team calendars
 
-| Team               | Link                                                                    |
-| ------------------ | ----------------------------------------------------------------------- |
-| EHC Biel-Bienne    | `https://dafo.github.io/nationalleague-calendar/ehc-biel-bienne.ics`    |
-| EHC Kloten         | `https://dafo.github.io/nationalleague-calendar/ehc-kloten.ics`         |
-| EV Zug             | `https://dafo.github.io/nationalleague-calendar/ev-zug.ics`             |
-| Fribourg-Gottéron  | `https://dafo.github.io/nationalleague-calendar/fribourg-gotteron.ics`  |
-| Genève-Servette HC | `https://dafo.github.io/nationalleague-calendar/geneve-servette-hc.ics` |
-| HC Ajoie           | `https://dafo.github.io/nationalleague-calendar/hc-ajoie.ics`           |
-| HC Ambri-Piotta    | `https://dafo.github.io/nationalleague-calendar/hc-ambri-piotta.ics`    |
-| HC Davos           | `https://dafo.github.io/nationalleague-calendar/hc-davos.ics`           |
-| HC Lugano          | `https://dafo.github.io/nationalleague-calendar/hc-lugano.ics`          |
-| Lausanne HC        | `https://dafo.github.io/nationalleague-calendar/lausanne-hc.ics`        |
-| SC Bern            | `https://dafo.github.io/nationalleague-calendar/sc-bern.ics`            |
-| SCL Tigers         | `https://dafo.github.io/nationalleague-calendar/scl-tigers.ics`         |
-| SCRJ Lakers        | `https://dafo.github.io/nationalleague-calendar/scrj-lakers.ics`        |
-| ZSC Lions          | `https://dafo.github.io/nationalleague-calendar/zsc-lions.ics`          |
+| Team               | Link                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------- |
+| EHC Biel-Bienne    | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/ehc-biel-bienne.ics`    |
+| EHC Kloten         | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/ehc-kloten.ics`         |
+| EV Zug             | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/ev-zug.ics`             |
+| Fribourg-Gottéron  | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/fribourg-gotteron.ics`  |
+| Genève-Servette HC | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/geneve-servette-hc.ics` |
+| HC Ajoie           | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/hc-ajoie.ics`           |
+| HC Ambri-Piotta    | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/hc-ambri-piotta.ics`    |
+| HC Davos           | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/hc-davos.ics`           |
+| HC Lugano          | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/hc-lugano.ics`          |
+| Lausanne HC        | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/lausanne-hc.ics`        |
+| SC Bern            | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/sc-bern.ics`            |
+| SCL Tigers         | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/scl-tigers.ics`         |
+| SCRJ Lakers        | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/scrj-lakers.ics`        |
+| ZSC Lions          | `https://raw.githubusercontent.com/dafo90/nationalleague-calendar/master/output/zsc-lions.ics`          |
 
 > **Note:** filenames are derived automatically from each team's current name on nationalleague.ch (lowercased, accents stripped, spaces/punctuation replaced with `-`). If a team is renamed or a new team is promoted to the league, its filename will follow the same pattern and a new row can be added here.
-
-## Publishing setup (one-time)
-
-In this repository's **Settings → Pages**, set **Source** to **"GitHub Actions"** (not "Deploy from a branch"). The workflow already uploads the contents of `output/` as the Pages artifact and deploys it on every run, so no further configuration is needed — the first successful workflow run will publish the site.
 
 ## Running it yourself
 
 ```bash
 pip install -r requirements.txt
-python3 generate_calendar.py
+python3 generate_ics.py
 ```
 
-This writes/updates the `.ics` files inside the `output/` directory. The script is safe to re-run repeatedly and merges new data into whatever's already on disk, so make sure `output/` persists between runs (e.g. via a Git commit in CI) rather than being recreated from scratch each time.
+This writes/updates the `.ics` files inside the `output/` directory. The script is safe to re-run repeatedly and merges new data into whatever's already on disk, so make sure `output/` persists between runs (e.g. via a Git commit in CI) rather than being recreated from scratch each time. Since the calendar links above point straight at the raw file content on GitHub, no separate publishing step is required — once the workflow commits an updated `output/` folder, the links above serve the new content automatically (allow a few minutes for GitHub's CDN cache to catch up).
