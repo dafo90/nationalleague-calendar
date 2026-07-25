@@ -22,12 +22,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Lausanne HC
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Fribourg-Gottéron
+SUMMARY:SC Rapperswil-Jona Lakers - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20260919T194500
 DTEND;TZID=Europe/Zurich:20260919T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000018-scrj-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Frib
+ ourg-Gottéron
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -77,13 +78,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Fribourg-Gottéron
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - HC Ambri-Piotta
+SUMMARY:Fribourg-Gottéron - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261003T194500
 DTEND;TZID=Europe/Zurich:20261003T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000059-fri-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ambri-Pi
- otta
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ambrì-P
+ iotta
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -114,12 +115,12 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Lugano
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Fribourg-Gottéron
+SUMMARY:HC Ambrì-Piotta - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20261020T194500
 DTEND;TZID=Europe/Zurich:20261020T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000092-hcap-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Fribourg-Gott
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Fribourg-Gott
  éron
 LOCATION:Gottardo Arena
 END:VEVENT
@@ -189,12 +190,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Kloten
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - SCRJ Lakers
+SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000150-fri-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Rappersw
+ il-Jona Lakers
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -244,13 +246,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Fribourg-Gott
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - HC Ambri-Piotta
+SUMMARY:Fribourg-Gottéron - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261206T154500
 DTEND;TZID=Europe/Zurich:20261206T174500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000184-fri-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ambri-Pi
- otta
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ambrì-P
+ iotta
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -309,12 +311,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Fribourg-Gottéron
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - SCRJ Lakers
+SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270103T154500
 DTEND;TZID=Europe/Zurich:20270103T174500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000241-fri-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Rappersw
+ il-Jona Lakers
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +366,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Fribourg-Gottéron
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Fribourg-Gottéron
+SUMMARY:HC Ambrì-Piotta - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20270122T194500
 DTEND;TZID=Europe/Zurich:20270122T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000275-hcap-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Fribourg-Gott
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Fribourg-Gott
  éron
 LOCATION:Gottardo Arena
 END:VEVENT
@@ -438,12 +441,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Kloten
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Fribourg-Gottéron
+SUMMARY:SC Rapperswil-Jona Lakers - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20270219T194500
 DTEND;TZID=Europe/Zurich:20270219T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000335-scrj-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Frib
+ ourg-Gottéron
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

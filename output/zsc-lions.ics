@@ -39,12 +39,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: ZSC Lions
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - ZSC Lions
+SUMMARY:HC Ambrì-Piotta - ZSC Lions
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000029-hcap-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: ZSC Lions
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -93,12 +93,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Fribourg-Gottéron
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - SCRJ Lakers
+SUMMARY:ZSC Lions - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261016T194500
 DTEND;TZID=Europe/Zurich:20261016T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000083-zsc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Rapperswil-Jona L
+ akers
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -147,12 +148,12 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: ZSC Lions
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - HC Ambri-Piotta
+SUMMARY:ZSC Lions - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261030T194500
 DTEND;TZID=Europe/Zurich:20261030T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000125-zsc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambrì-Piotta
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -210,12 +211,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: ZSC Lions
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - ZSC Lions
+SUMMARY:SC Rapperswil-Jona Lakers - ZSC Lions
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000173-scrj-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: ZSC 
+ Lions
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +266,12 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Bern
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - ZSC Lions
+SUMMARY:HC Ambrì-Piotta - ZSC Lions
 DTSTART;TZID=Europe/Zurich:20261219T194500
 DTEND;TZID=Europe/Zurich:20261219T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000211-hcap-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: ZSC Lions
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -327,12 +329,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: ZSC Lions
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - ZSC Lions
+SUMMARY:SC Rapperswil-Jona Lakers - ZSC Lions
 DTSTART;TZID=Europe/Zurich:20270114T200000
 DTEND;TZID=Europe/Zurich:20270114T220000
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000265-scrj-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: ZSC 
+ Lions
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +393,12 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: ZSC Lions
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - HC Ambri-Piotta
+SUMMARY:ZSC Lions - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270202T194500
 DTEND;TZID=Europe/Zurich:20270202T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000308-zsc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambrì-Piotta
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -453,12 +456,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Fribourg-Gottéron
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - SCRJ Lakers
+SUMMARY:ZSC Lions - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270227T194500
 DTEND;TZID=Europe/Zurich:20270227T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000356-zsc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Rapperswil-Jona L
+ akers
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT

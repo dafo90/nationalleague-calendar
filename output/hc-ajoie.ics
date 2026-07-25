@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//National League Calendar Generator//
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - HC Ambri-Piotta
+SUMMARY:HC Ajoie - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115339Z
 UID:20271105000001-hca-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambrì-Piotta
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -48,12 +48,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ajoie
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - SCRJ Lakers
+SUMMARY:HC Ajoie - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20260926T194500
 DTEND;TZID=Europe/Zurich:20260926T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000036-hca-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SC Rapperswil-Jona La
+ kers
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -138,12 +139,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Genève-Servette HC
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Ajoie
+SUMMARY:HC Ambrì-Piotta - HC Ajoie
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000106-hcap-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Ajoie
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -165,12 +166,13 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SC Bern
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Ajoie
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ajoie
 DTSTART;TZID=Europe/Zurich:20261031T194500
 DTEND;TZID=Europe/Zurich:20261031T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000131-scrj-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
+ joie
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -255,12 +257,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Genève-Servette HC
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Ajoie
+SUMMARY:HC Ambrì-Piotta - HC Ajoie
 DTSTART;TZID=Europe/Zurich:20261216T194500
 DTEND;TZID=Europe/Zurich:20261216T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000197-hcap-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Ajoie
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -282,12 +284,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ajoie
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - SCRJ Lakers
+SUMMARY:HC Ajoie - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261222T194500
 DTEND;TZID=Europe/Zurich:20261222T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000218-hca-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SC Rapperswil-Jona La
+ kers
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -372,12 +375,12 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ajoie
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - HC Ambri-Piotta
+SUMMARY:HC Ajoie - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270129T194500
 DTEND;TZID=Europe/Zurich:20270129T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000288-hca-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambrì-Piotta
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -408,12 +411,13 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Lausanne HC
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Ajoie
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ajoie
 DTSTART;TZID=Europe/Zurich:20270207T154500
 DTEND;TZID=Europe/Zurich:20270207T174500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000312-scrj-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
+ joie
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

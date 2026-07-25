@@ -21,12 +21,12 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Lausanne HC
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - HC Ambri-Piotta
+SUMMARY:Lausanne HC - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20260919T194500
 DTEND;TZID=Europe/Zurich:20260919T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000019-lhc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ambrì-Piotta
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
@@ -94,12 +94,13 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Lugano
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Lausanne HC
+SUMMARY:SC Rapperswil-Jona Lakers - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20261010T194500
 DTEND;TZID=Europe/Zurich:20261010T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000076-scrj-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Laus
+ anne HC
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -184,12 +185,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Davos
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Lausanne HC
+SUMMARY:HC Ambrì-Piotta - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20261115T154500
 DTEND;TZID=Europe/Zurich:20261115T174500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000142-hcap-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Lausanne HC
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -212,12 +213,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Lausanne H
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - SCRJ Lakers
+SUMMARY:Lausanne HC - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261124T194500
 DTEND;TZID=Europe/Zurich:20261124T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000165-lhc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Rapperswil-Jona
+  Lakers
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
@@ -302,12 +304,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ajoie
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Lausanne HC
+SUMMARY:HC Ambrì-Piotta - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20270102T194500
 DTEND;TZID=Europe/Zurich:20270102T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000233-hcap-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Lausanne HC
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -339,12 +341,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Lausanne H
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - SCRJ Lakers
+SUMMARY:Lausanne HC - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270110T140000
 DTEND;TZID=Europe/Zurich:20270110T160000
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000256-lhc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Rapperswil-Jona
+  Lakers
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
@@ -420,12 +423,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Davos
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - HC Ambri-Piotta
+SUMMARY:Lausanne HC - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270216T194500
 DTEND;TZID=Europe/Zurich:20270216T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000326-lhc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ambrì-Piotta
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
@@ -448,12 +451,13 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Genève-Servette H
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Lausanne HC
+SUMMARY:SC Rapperswil-Jona Lakers - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20270225T194500
 DTEND;TZID=Europe/Zurich:20270225T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000349-scrj-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Laus
+ anne HC
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

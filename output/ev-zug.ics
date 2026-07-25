@@ -39,12 +39,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EV Zug
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EV Zug
+SUMMARY:SC Rapperswil-Jona Lakers - EV Zug
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000047-scrj-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EV Z
+ ug
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -120,21 +121,22 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: EV Zug
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - HC Ambri-Piotta
+SUMMARY:EV Zug - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261111T194500
 DTEND;TZID=Europe/Zurich:20261111T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000070-evz-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambrì-Piotta
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - SCRJ Lakers
+SUMMARY:EV Zug - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261113T194500
 DTEND;TZID=Europe/Zurich:20261113T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000140-evz-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: SC Rapperswil-Jona Lake
+ rs
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
@@ -165,12 +167,12 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: Genève-Servette HC
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EV Zug
+SUMMARY:HC Ambrì-Piotta - EV Zug
 DTSTART;TZID=Europe/Zurich:20261121T194500
 DTEND;TZID=Europe/Zurich:20261121T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000156-hcap-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EV Zug
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -255,12 +257,13 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: SC Bern
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EV Zug
+SUMMARY:SC Rapperswil-Jona Lakers - EV Zug
 DTSTART;TZID=Europe/Zurich:20261223T194500
 DTEND;TZID=Europe/Zurich:20261223T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000228-scrj-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EV Z
+ ug
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -291,12 +294,12 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: Fribourg-Gottéron
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EV Zug
+SUMMARY:HC Ambrì-Piotta - EV Zug
 DTSTART;TZID=Europe/Zurich:20270108T194500
 DTEND;TZID=Europe/Zurich:20270108T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000247-hcap-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EV Zug
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -408,12 +411,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: EV Zug
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - SCRJ Lakers
+SUMMARY:EV Zug - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270206T194500
 DTEND;TZID=Europe/Zurich:20270206T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000322-evz-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: SC Rapperswil-Jona Lake
+ rs
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
@@ -435,12 +439,12 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: EV Zug
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - HC Ambri-Piotta
+SUMMARY:EV Zug - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270221T140000
 DTEND;TZID=Europe/Zurich:20270221T160000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000343-evz-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambrì-Piotta
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT

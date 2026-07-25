@@ -39,12 +39,13 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: Fribourg-Gottéron
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Davos
+SUMMARY:SC Rapperswil-Jona Lakers - HC Davos
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000033-scrj-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC D
+ avos
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -57,12 +58,12 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: Lausanne HC
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Davos
+SUMMARY:HC Ambrì-Piotta - HC Davos
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000044-hcap-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Davos
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -156,12 +157,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Davos
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - SCRJ Lakers
+SUMMARY:HC Davos - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261030T194500
 DTEND;TZID=Europe/Zurich:20261030T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000122-hcd-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Rapperswil-Jona La
+ kers
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -174,12 +176,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Davos
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - HC Ambri-Piotta
+SUMMARY:HC Davos - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261113T194500
 DTEND;TZID=Europe/Zurich:20261113T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000136-hcd-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: HC Ambrì-Piotta
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -264,12 +266,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Davos
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - SCRJ Lakers
+SUMMARY:HC Davos - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261219T194500
 DTEND;TZID=Europe/Zurich:20261219T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000213-hcd-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Rapperswil-Jona La
+ kers
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -282,12 +285,12 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: EHC Biel-Bienne
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Davos
+SUMMARY:HC Ambrì-Piotta - HC Davos
 DTSTART;TZID=Europe/Zurich:20261223T194500
 DTEND;TZID=Europe/Zurich:20261223T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000225-hcap-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Davos
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -381,12 +384,13 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: Fribourg-Gottéron
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Davos
+SUMMARY:SC Rapperswil-Jona Lakers - HC Davos
 DTSTART;TZID=Europe/Zurich:20270202T194500
 DTEND;TZID=Europe/Zurich:20270202T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000305-scrj-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC D
+ avos
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -399,12 +403,12 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: Lausanne HC
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - HC Ambri-Piotta
+SUMMARY:HC Davos - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270206T194500
 DTEND;TZID=Europe/Zurich:20270206T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000318-hcd-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: HC Ambrì-Piotta
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT

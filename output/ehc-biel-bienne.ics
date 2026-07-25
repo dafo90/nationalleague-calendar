@@ -22,13 +22,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SCL Tigers
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - HC Ambri-Piotta
+SUMMARY:EHC Biel-Bienne - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000023-ehcb-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ambri-Piott
- a
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ambrì-Piot
+ ta
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -105,21 +105,23 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ajoie
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EHC Biel-Bienne
+SUMMARY:SC Rapperswil-Jona Lakers - EHC Biel-Bienne
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000089-scrj-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Biel-Bienne
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
+ Biel-Bienne
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - SCRJ Lakers
+SUMMARY:EHC Biel-Bienne - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261020T194500
 DTEND;TZID=Europe/Zurich:20261020T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000094-ehcb-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Rapperswil-
+ Jona Lakers
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -142,13 +144,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: EV Zug
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EHC Biel-Bienne
+SUMMARY:HC Ambrì-Piotta - EHC Biel-Bienne
 DTSTART;TZID=Europe/Zurich:20261027T194500
 DTEND;TZID=Europe/Zurich:20261027T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000113-hcap-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EHC Biel-Bienn
- e
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Biel-Bien
+ ne
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -225,12 +227,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Lausanne HC
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EHC Biel-Bienne
+SUMMARY:SC Rapperswil-Jona Lakers - EHC Biel-Bienne
 DTSTART;TZID=Europe/Zurich:20261204T194500
 DTEND;TZID=Europe/Zurich:20261204T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000187-scrj-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Biel-Bienne
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
+ Biel-Bienne
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -253,13 +256,13 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: EHC Biel-Bienne
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - HC Ambri-Piotta
+SUMMARY:EHC Biel-Bienne - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261218T194500
 DTEND;TZID=Europe/Zurich:20261218T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000205-ehcb-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ambri-Piott
- a
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ambrì-Piot
+ ta
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -363,12 +366,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Lausanne HC
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - SCRJ Lakers
+SUMMARY:EHC Biel-Bienne - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270122T194500
 DTEND;TZID=Europe/Zurich:20270122T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000277-ehcb-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Rapperswil-
+ Jona Lakers
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -391,13 +395,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: EV Zug
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EHC Biel-Bienne
+SUMMARY:HC Ambrì-Piotta - EHC Biel-Bienne
 DTSTART;TZID=Europe/Zurich:20270130T194500
 DTEND;TZID=Europe/Zurich:20270130T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000295-hcap-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EHC Biel-Bienn
- e
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Biel-Bien
+ ne
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT

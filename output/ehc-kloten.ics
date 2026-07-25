@@ -3,12 +3,13 @@ VERSION:2.0
 PRODID:-//National League Calendar Generator//
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EHC Kloten
+SUMMARY:SC Rapperswil-Jona Lakers - EHC Kloten
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115339Z
 UID:20271105000004-scrj-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
+ Kloten
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -102,12 +103,12 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: EV Zug
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - HC Ambri-Piotta
+SUMMARY:EHC Kloten - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261016T194500
 DTEND;TZID=Europe/Zurich:20261016T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000081-ehck-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ambrì-Piotta
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -138,12 +139,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EHC Kloten
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - SCRJ Lakers
+SUMMARY:EHC Kloten - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000110-ehck-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SC Rapperswil-Jona 
+ Lakers
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -219,12 +221,12 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: EHC Kloten
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EHC Kloten
+SUMMARY:HC Ambrì-Piotta - EHC Kloten
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000170-hcap-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Kloten
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -255,12 +257,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EHC Kloten
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - SCRJ Lakers
+SUMMARY:EHC Kloten - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261216T194500
 DTEND;TZID=Europe/Zurich:20261216T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000201-ehck-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SC Rapperswil-Jona 
+ Lakers
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -345,12 +348,12 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Davos
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - HC Ambri-Piotta
+SUMMARY:EHC Kloten - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270115T194500
 DTEND;TZID=Europe/Zurich:20270115T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000264-ehck-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ambrì-Piotta
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -372,12 +375,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Lugano
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EHC Kloten
+SUMMARY:SC Rapperswil-Jona Lakers - EHC Kloten
 DTSTART;TZID=Europe/Zurich:20270129T194500
 DTEND;TZID=Europe/Zurich:20270129T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000291-scrj-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
+ Kloten
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -453,12 +457,12 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: EV Zug
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EHC Kloten
+SUMMARY:HC Ambrì-Piotta - EHC Kloten
 DTSTART;TZID=Europe/Zurich:20270227T194500
 DTEND;TZID=Europe/Zurich:20270227T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000351-hcap-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Kloten
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT

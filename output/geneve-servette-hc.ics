@@ -30,13 +30,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Genève-Servette HC
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - SCRJ Lakers
+SUMMARY:Genève-Servette HC - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000025-gshc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SCRJ Laker
- s
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Rappers
+ wil-Jona Lakers
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
@@ -115,13 +115,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SCL Tigers
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Genève-Servette HC
+SUMMARY:HC Ambrì-Piotta - Genève-Servette HC
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000086-hcap-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Genève-Servet
- te HC
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Genève-Serve
+ tte HC
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -152,13 +152,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: ZSC Lions
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Genève-Servette HC
+SUMMARY:SC Rapperswil-Jona Lakers - Genève-Servette HC
 DTSTART;TZID=Europe/Zurich:20261027T194500
 DTEND;TZID=Europe/Zurich:20261027T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000117-scrj-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Genève-Servette H
- C
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Gen
+ ève-Servette HC
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -237,13 +237,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: Genève-Servette HC
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - HC Ambri-Piotta
+SUMMARY:Genève-Servette HC - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261128T194500
 DTEND;TZID=Europe/Zurich:20261128T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000178-gshc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ambri-P
- iotta
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ambrì-
+ Piotta
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
@@ -274,13 +274,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: ZSC Lions
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Genève-Servette HC
+SUMMARY:SC Rapperswil-Jona Lakers - Genève-Servette HC
 DTSTART;TZID=Europe/Zurich:20261218T194500
 DTEND;TZID=Europe/Zurich:20261218T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000207-scrj-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Genève-Servette H
- C
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Gen
+ ève-Servette HC
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -359,13 +359,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SCL Tigers
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Genève-Servette HC
+SUMMARY:HC Ambrì-Piotta - Genève-Servette HC
 DTSTART;TZID=Europe/Zurich:20270116T194500
 DTEND;TZID=Europe/Zurich:20270116T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000267-hcap-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Genève-Servet
- te HC
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Genève-Serve
+ tte HC
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -387,13 +387,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ajoie
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - SCRJ Lakers
+SUMMARY:Genève-Servette HC - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270128T194500
 DTEND;TZID=Europe/Zurich:20270128T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000298-gshc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SCRJ Laker
- s
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Rappers
+ wil-Jona Lakers
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
@@ -481,13 +481,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: Genève-Servette HC
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - HC Ambri-Piotta
+SUMMARY:Genève-Servette HC - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270301T194500
 DTEND;TZID=Europe/Zurich:20270301T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000361-gshc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ambri-P
- iotta
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ambrì-
+ Piotta
 LOCATION:Les Vernets
 END:VEVENT
 END:VCALENDAR

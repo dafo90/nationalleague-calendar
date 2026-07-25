@@ -30,12 +30,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EV Zug
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - HC Ambri-Piotta
+SUMMARY:HC Lugano - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20260926T194500
 DTEND;TZID=Europe/Zurich:20260926T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000040-hcl-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ambrì-Piotta
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -48,12 +48,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Lugano
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - SCRJ Lakers
+SUMMARY:HC Lugano - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261002T194500
 DTEND;TZID=Europe/Zurich:20261002T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000055-hcl-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SC Rapperswil-Jona L
+ akers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -156,12 +157,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Lausanne HC
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Lugano
+SUMMARY:HC Ambrì-Piotta - HC Lugano
 DTSTART;TZID=Europe/Zurich:20261031T194500
 DTEND;TZID=Europe/Zurich:20261031T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000127-hcap-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Lugano
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -183,12 +184,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCL Tigers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Lugano
+SUMMARY:SC Rapperswil-Jona Lakers - HC Lugano
 DTSTART;TZID=Europe/Zurich:20261114T194500
 DTEND;TZID=Europe/Zurich:20261114T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000145-scrj-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC L
+ ugano
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -282,12 +284,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Lugano
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - HC Ambri-Piotta
+SUMMARY:HC Lugano - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261222T194500
 DTEND;TZID=Europe/Zurich:20261222T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000223-hcl-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ambrì-Piotta
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -300,12 +302,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Lugano
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Lugano
+SUMMARY:SC Rapperswil-Jona Lakers - HC Lugano
 DTSTART;TZID=Europe/Zurich:20270102T194500
 DTEND;TZID=Europe/Zurich:20270102T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000237-scrj-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC L
+ ugano
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -399,12 +402,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Lausanne HC
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Lugano
+SUMMARY:HC Ambrì-Piotta - HC Lugano
 DTSTART;TZID=Europe/Zurich:20270205T194500
 DTEND;TZID=Europe/Zurich:20270205T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000309-hcap-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Lugano
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -417,12 +420,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCL Tigers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - SCRJ Lakers
+SUMMARY:HC Lugano - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270216T194500
 DTEND;TZID=Europe/Zurich:20270216T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000327-hcl-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SC Rapperswil-Jona L
+ akers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT

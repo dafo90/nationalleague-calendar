@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//National League Calendar Generator//
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - HC Ambri-Piotta
+SUMMARY:HC Ajoie - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115339Z
 UID:20271105000001-hca-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambrì-Piotta
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -31,12 +31,13 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: SCL Tigers
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EHC Kloten
+SUMMARY:SC Rapperswil-Jona Lakers - EHC Kloten
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115339Z
 UID:20271105000004-scrj-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
+ Kloten
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -67,12 +68,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Bern
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - SCRJ Lakers
+SUMMARY:HC Ambrì-Piotta - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20260918T194500
 DTEND;TZID=Europe/Zurich:20260918T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000008-hcap-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: SC Rapperswil
+ -Jona Lakers
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -148,21 +150,22 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: EV Zug
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Fribourg-Gottéron
+SUMMARY:SC Rapperswil-Jona Lakers - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20260919T194500
 DTEND;TZID=Europe/Zurich:20260919T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000018-scrj-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Frib
+ ourg-Gottéron
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - HC Ambri-Piotta
+SUMMARY:Lausanne HC - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20260919T194500
 DTEND;TZID=Europe/Zurich:20260919T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000019-lhc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ambrì-Piotta
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
@@ -184,23 +187,23 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: ZSC Lions
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - HC Ambri-Piotta
+SUMMARY:EHC Biel-Bienne - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000023-ehcb-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ambri-Piott
- a
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ambrì-Piot
+ ta
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - SCRJ Lakers
+SUMMARY:Genève-Servette HC - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000025-gshc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SCRJ Laker
- s
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Rappers
+ wil-Jona Lakers
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
@@ -249,12 +252,12 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: EHC Biel-Bienne
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - ZSC Lions
+SUMMARY:HC Ambrì-Piotta - ZSC Lions
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000029-hcap-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: ZSC Lions
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -277,12 +280,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Fribourg-G
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Davos
+SUMMARY:SC Rapperswil-Jona Lakers - HC Davos
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000033-scrj-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC D
+ avos
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -295,12 +299,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EV Zug
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - SCRJ Lakers
+SUMMARY:HC Ajoie - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20260926T194500
 DTEND;TZID=Europe/Zurich:20260926T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000036-hca-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SC Rapperswil-Jona La
+ kers
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -322,12 +327,12 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SCL Tigers
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - HC Ambri-Piotta
+SUMMARY:HC Lugano - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20260926T194500
 DTEND;TZID=Europe/Zurich:20260926T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000040-hcl-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ambrì-Piotta
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -359,12 +364,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Lausanne HC
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Davos
+SUMMARY:HC Ambrì-Piotta - HC Davos
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000044-hcap-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Davos
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -386,12 +391,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: EHC Kloten
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EV Zug
+SUMMARY:SC Rapperswil-Jona Lakers - EV Zug
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000047-scrj-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EV Z
+ ug
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -423,12 +429,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Genève-Servette H
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - SCL Tigers
+SUMMARY:HC Ambrì-Piotta - SCL Tigers
 DTSTART;TZID=Europe/Zurich:20261001T200000
 DTEND;TZID=Europe/Zurich:20261001T220000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000050-hcap-scl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: SCL Tigers
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: SCL Tigers
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -468,12 +474,13 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EHC Biel-Bienne
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - SCRJ Lakers
+SUMMARY:HC Lugano - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261002T194500
 DTEND;TZID=Europe/Zurich:20261002T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000055-hcl-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SC Rapperswil-Jona L
+ akers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -486,22 +493,23 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Davos
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - HC Ambri-Piotta
+SUMMARY:Fribourg-Gottéron - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261003T194500
 DTEND;TZID=Europe/Zurich:20261003T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000059-fri-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ambri-Pi
- otta
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ambrì-P
+ iotta
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - SC Bern
+SUMMARY:SC Rapperswil-Jona Lakers - SC Bern
 DTSTART;TZID=Europe/Zurich:20261003T194500
 DTEND;TZID=Europe/Zurich:20261003T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000061-scrj-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: SC B
+ ern
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -586,12 +594,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: ZSC Lions
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - SCRJ Lakers
+SUMMARY:SCL Tigers - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261009T194500
 DTEND;TZID=Europe/Zurich:20261009T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000069-scl-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Rapperswil-Jona 
+ Lakers
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
@@ -604,12 +613,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SCL Tigers
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - SC Bern
+SUMMARY:HC Ambrì-Piotta - SC Bern
 DTSTART;TZID=Europe/Zurich:20261010T194500
 DTEND;TZID=Europe/Zurich:20261010T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000072-hcap-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: SC Bern
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -631,12 +640,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Davos
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Lausanne HC
+SUMMARY:SC Rapperswil-Jona Lakers - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20261010T194500
 DTEND;TZID=Europe/Zurich:20261010T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000076-scrj-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Laus
+ anne HC
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -694,12 +704,12 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SCL Tigers
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - HC Ambri-Piotta
+SUMMARY:EHC Kloten - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261016T194500
 DTEND;TZID=Europe/Zurich:20261016T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000081-ehck-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ambrì-Piotta
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -712,12 +722,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Davos
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - SCRJ Lakers
+SUMMARY:ZSC Lions - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261016T194500
 DTEND;TZID=Europe/Zurich:20261016T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000083-zsc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Rapperswil-Jona L
+ akers
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -730,13 +741,13 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: EV Zug
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Genève-Servette HC
+SUMMARY:HC Ambrì-Piotta - Genève-Servette HC
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000086-hcap-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Genève-Servet
- te HC
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Genève-Serve
+ tte HC
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -758,12 +769,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Lugano
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EHC Biel-Bienne
+SUMMARY:SC Rapperswil-Jona Lakers - EHC Biel-Bienne
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000089-scrj-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Biel-Bienne
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
+ Biel-Bienne
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -785,12 +797,12 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Bern
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Fribourg-Gottéron
+SUMMARY:HC Ambrì-Piotta - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20261020T194500
 DTEND;TZID=Europe/Zurich:20261020T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000092-hcap-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Fribourg-Gott
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Fribourg-Gott
  éron
 LOCATION:Gottardo Arena
 END:VEVENT
@@ -804,12 +816,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: SCL Tigers
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - SCRJ Lakers
+SUMMARY:EHC Biel-Bienne - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261020T194500
 DTEND;TZID=Europe/Zurich:20261020T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000094-ehcb-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Rapperswil-
+ Jona Lakers
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -868,12 +881,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Biel-Bi
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Ambri-Piotta
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261023T194500
 DTEND;TZID=Europe/Zurich:20261023T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000102-scrj-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
+ mbrì-Piotta
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -904,12 +918,12 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: Lausanne HC
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Ajoie
+SUMMARY:HC Ambrì-Piotta - HC Ajoie
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000106-hcap-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Ajoie
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -922,12 +936,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: EV Zug
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - SCRJ Lakers
+SUMMARY:EHC Kloten - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000110-ehck-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SC Rapperswil-Jona 
+ Lakers
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -976,13 +991,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Davos
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EHC Biel-Bienne
+SUMMARY:HC Ambrì-Piotta - EHC Biel-Bienne
 DTSTART;TZID=Europe/Zurich:20261027T194500
 DTEND;TZID=Europe/Zurich:20261027T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000113-hcap-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EHC Biel-Bienn
- e
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Biel-Bien
+ ne
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1004,13 +1019,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ajoie
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Genève-Servette HC
+SUMMARY:SC Rapperswil-Jona Lakers - Genève-Servette HC
 DTSTART;TZID=Europe/Zurich:20261027T194500
 DTEND;TZID=Europe/Zurich:20261027T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000117-scrj-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Genève-Servette H
- C
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Gen
+ ève-Servette HC
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1068,12 +1083,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: EHC Kloten
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - SCRJ Lakers
+SUMMARY:HC Davos - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261030T194500
 DTEND;TZID=Europe/Zurich:20261030T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000122-hcd-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Rapperswil-Jona La
+ kers
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1087,12 +1103,12 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Genève-Ser
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - HC Ambri-Piotta
+SUMMARY:ZSC Lions - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261030T194500
 DTEND;TZID=Europe/Zurich:20261030T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000125-zsc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambrì-Piotta
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1105,12 +1121,12 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: SCL Tigers
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Lugano
+SUMMARY:HC Ambrì-Piotta - HC Lugano
 DTSTART;TZID=Europe/Zurich:20261031T194500
 DTEND;TZID=Europe/Zurich:20261031T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000127-hcap-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Lugano
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1142,12 +1158,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: ZSC Lions
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Ajoie
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ajoie
 DTSTART;TZID=Europe/Zurich:20261031T194500
 DTEND;TZID=Europe/Zurich:20261031T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000131-scrj-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
+ joie
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1169,12 +1186,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SC Bern
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - HC Ambri-Piotta
+SUMMARY:EV Zug - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261111T194500
 DTEND;TZID=Europe/Zurich:20261111T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000070-evz-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambrì-Piotta
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
@@ -1196,12 +1213,12 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: Fribourg-Gottéron
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - HC Ambri-Piotta
+SUMMARY:HC Davos - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261113T194500
 DTEND;TZID=Europe/Zurich:20261113T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000136-hcd-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: HC Ambrì-Piotta
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1214,12 +1231,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCL Tigers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - SCRJ Lakers
+SUMMARY:EV Zug - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261113T194500
 DTEND;TZID=Europe/Zurich:20261113T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000140-evz-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: SC Rapperswil-Jona Lake
+ rs
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
@@ -1250,12 +1268,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Bern
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Lugano
+SUMMARY:SC Rapperswil-Jona Lakers - HC Lugano
 DTSTART;TZID=Europe/Zurich:20261114T194500
 DTEND;TZID=Europe/Zurich:20261114T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000145-scrj-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC L
+ ugano
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1286,12 +1305,12 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Genève-Servette HC
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Lausanne HC
+SUMMARY:HC Ambrì-Piotta - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20261115T154500
 DTEND;TZID=Europe/Zurich:20261115T174500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000142-hcap-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Lausanne HC
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1322,12 +1341,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: EHC Kloten
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - SCRJ Lakers
+SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000150-fri-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Rappersw
+ il-Jona Lakers
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1340,12 +1360,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ajoie
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - HC Ambri-Piotta
+SUMMARY:SCL Tigers - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000153-scl-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ambrì-Piotta
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1367,12 +1387,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Fribourg-Gottéron
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EV Zug
+SUMMARY:HC Ambrì-Piotta - EV Zug
 DTSTART;TZID=Europe/Zurich:20261121T194500
 DTEND;TZID=Europe/Zurich:20261121T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000156-hcap-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EV Zug
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1413,21 +1433,22 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Lausanne H
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - SCL Tigers
+SUMMARY:SC Rapperswil-Jona Lakers - SCL Tigers
 DTSTART;TZID=Europe/Zurich:20261122T140000
 DTEND;TZID=Europe/Zurich:20261122T160000
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000160-scrj-scl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: SCL Tigers
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: SCL 
+ Tigers
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - HC Ambri-Piotta
+SUMMARY:SC Bern - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261124T194500
 DTEND;TZID=Europe/Zurich:20261124T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000162-scb-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ambrì-Piotta
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1449,12 +1470,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: ZSC Lions
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - SCRJ Lakers
+SUMMARY:Lausanne HC - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261124T194500
 DTEND;TZID=Europe/Zurich:20261124T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000165-lhc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Rapperswil-Jona
+  Lakers
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
@@ -1503,21 +1525,22 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EV Zug
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EHC Kloten
+SUMMARY:HC Ambrì-Piotta - EHC Kloten
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000170-hcap-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Kloten
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - ZSC Lions
+SUMMARY:SC Rapperswil-Jona Lakers - ZSC Lions
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000173-scrj-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: ZSC 
+ Lions
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1548,12 +1571,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Fribourg-Gottéron
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - SCRJ Lakers
+SUMMARY:SC Bern - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261128T194500
 DTEND;TZID=Europe/Zurich:20261128T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000176-scb-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: SC Rapperswil-Jona Lak
+ ers
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1566,13 +1590,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Lausanne HC
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - HC Ambri-Piotta
+SUMMARY:Genève-Servette HC - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261128T194500
 DTEND;TZID=Europe/Zurich:20261128T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000178-gshc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ambri-P
- iotta
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ambrì-
+ Piotta
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
@@ -1648,12 +1672,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Lausanne HC
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EHC Biel-Bienne
+SUMMARY:SC Rapperswil-Jona Lakers - EHC Biel-Bienne
 DTSTART;TZID=Europe/Zurich:20261204T194500
 DTEND;TZID=Europe/Zurich:20261204T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000187-scrj-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Biel-Bienne
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
+ Biel-Bienne
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1675,12 +1700,13 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Genève-Servette HC
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - SCRJ Lakers
+SUMMARY:HC Ambrì-Piotta - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261205T194500
 DTEND;TZID=Europe/Zurich:20261205T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000191-hcap-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: SC Rapperswil
+ -Jona Lakers
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1730,13 +1756,13 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: ZSC Lions
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - HC Ambri-Piotta
+SUMMARY:Fribourg-Gottéron - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261206T154500
 DTEND;TZID=Europe/Zurich:20261206T174500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000184-fri-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ambri-Pi
- otta
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ambrì-P
+ iotta
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1749,12 +1775,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EHC Kloten
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Ajoie
+SUMMARY:HC Ambrì-Piotta - HC Ajoie
 DTSTART;TZID=Europe/Zurich:20261216T194500
 DTEND;TZID=Europe/Zurich:20261216T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000197-hcap-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Ajoie
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1785,12 +1811,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: ZSC Lions
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - SCRJ Lakers
+SUMMARY:EHC Kloten - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261216T194500
 DTEND;TZID=Europe/Zurich:20261216T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000201-ehck-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SC Rapperswil-Jona 
+ Lakers
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1821,13 +1848,13 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: EHC Kloten
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - HC Ambri-Piotta
+SUMMARY:EHC Biel-Bienne - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261218T194500
 DTEND;TZID=Europe/Zurich:20261218T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000205-ehcb-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ambri-Piott
- a
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ambrì-Piot
+ ta
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1840,13 +1867,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Davos
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Genève-Servette HC
+SUMMARY:SC Rapperswil-Jona Lakers - Genève-Servette HC
 DTSTART;TZID=Europe/Zurich:20261218T194500
 DTEND;TZID=Europe/Zurich:20261218T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000207-scrj-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Genève-Servette H
- C
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Gen
+ ève-Servette HC
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1877,12 +1904,12 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Bern
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - ZSC Lions
+SUMMARY:HC Ambrì-Piotta - ZSC Lions
 DTSTART;TZID=Europe/Zurich:20261219T194500
 DTEND;TZID=Europe/Zurich:20261219T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000211-hcap-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: ZSC Lions
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1895,12 +1922,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ajoie
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - SCRJ Lakers
+SUMMARY:HC Davos - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261219T194500
 DTEND;TZID=Europe/Zurich:20261219T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000213-hcd-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Rapperswil-Jona La
+ kers
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1959,12 +1987,13 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: EHC Biel-Bienne
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - SCRJ Lakers
+SUMMARY:HC Ajoie - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261222T194500
 DTEND;TZID=Europe/Zurich:20261222T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000218-hca-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SC Rapperswil-Jona La
+ kers
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1977,12 +2006,12 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: ZSC Lions
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - HC Ambri-Piotta
+SUMMARY:HC Lugano - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20261222T194500
 DTEND;TZID=Europe/Zurich:20261222T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000223-hcl-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ambrì-Piotta
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1995,12 +2024,12 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: SC Bern
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Davos
+SUMMARY:HC Ambrì-Piotta - HC Davos
 DTSTART;TZID=Europe/Zurich:20261223T194500
 DTEND;TZID=Europe/Zurich:20261223T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000225-hcap-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Davos
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2022,12 +2051,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: EHC Kloten
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EV Zug
+SUMMARY:SC Rapperswil-Jona Lakers - EV Zug
 DTSTART;TZID=Europe/Zurich:20261223T194500
 DTEND;TZID=Europe/Zurich:20261223T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000228-scrj-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EV Z
+ ug
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2076,12 +2106,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Davos
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Lausanne HC
+SUMMARY:HC Ambrì-Piotta - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20270102T194500
 DTEND;TZID=Europe/Zurich:20270102T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000233-hcap-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Lausanne HC
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2103,12 +2133,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Fribourg-Gottéron
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Lugano
+SUMMARY:SC Rapperswil-Jona Lakers - HC Lugano
 DTSTART;TZID=Europe/Zurich:20270102T194500
 DTEND;TZID=Europe/Zurich:20270102T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000237-scrj-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC L
+ ugano
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2139,12 +2170,13 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: EHC Biel-Bienne
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - SCRJ Lakers
+SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270103T154500
 DTEND;TZID=Europe/Zurich:20270103T174500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000241-fri-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Rappersw
+ il-Jona Lakers
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2157,12 +2189,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ajoie
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - HC Ambri-Piotta
+SUMMARY:SCL Tigers - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270103T154500
 DTEND;TZID=Europe/Zurich:20270103T174500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000244-scl-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ambrì-Piotta
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2240,12 +2272,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Fribourg-Gottéron
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EV Zug
+SUMMARY:HC Ambrì-Piotta - EV Zug
 DTSTART;TZID=Europe/Zurich:20270108T194500
 DTEND;TZID=Europe/Zurich:20270108T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000247-hcap-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EV Zug
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2258,12 +2290,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Bern
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - SCL Tigers
+SUMMARY:SC Rapperswil-Jona Lakers - SCL Tigers
 DTSTART;TZID=Europe/Zurich:20270108T194500
 DTEND;TZID=Europe/Zurich:20270108T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000251-scrj-scl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: SCL Tigers
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: SCL 
+ Tigers
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2276,12 +2309,12 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Lugano
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - HC Ambri-Piotta
+SUMMARY:SC Bern - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270109T194500
 DTEND;TZID=Europe/Zurich:20270109T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000253-scb-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ambrì-Piotta
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2330,12 +2363,13 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: EHC Kloten
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - SCRJ Lakers
+SUMMARY:Lausanne HC - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270110T140000
 DTEND;TZID=Europe/Zurich:20270110T160000
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000256-lhc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Rapperswil-Jona
+  Lakers
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
@@ -2357,12 +2391,13 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: EHC Biel-Bienne
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - ZSC Lions
+SUMMARY:SC Rapperswil-Jona Lakers - ZSC Lions
 DTSTART;TZID=Europe/Zurich:20270114T200000
 DTEND;TZID=Europe/Zurich:20270114T220000
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000265-scrj-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: ZSC 
+ Lions
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2393,12 +2428,12 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SCL Tigers
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - HC Ambri-Piotta
+SUMMARY:EHC Kloten - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270115T194500
 DTEND;TZID=Europe/Zurich:20270115T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000264-ehck-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ambrì-Piotta
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2411,22 +2446,23 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Bern
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Genève-Servette HC
+SUMMARY:HC Ambrì-Piotta - Genève-Servette HC
 DTSTART;TZID=Europe/Zurich:20270116T194500
 DTEND;TZID=Europe/Zurich:20270116T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000267-hcap-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Genève-Servet
- te HC
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Genève-Serve
+ tte HC
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - SCRJ Lakers
+SUMMARY:SC Bern - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270116T194500
 DTEND;TZID=Europe/Zurich:20270116T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000268-scb-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: SC Rapperswil-Jona Lak
+ ers
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2493,12 +2529,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: EV Zug
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - Fribourg-Gottéron
+SUMMARY:HC Ambrì-Piotta - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20270122T194500
 DTEND;TZID=Europe/Zurich:20270122T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000275-hcap-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Fribourg-Gott
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Fribourg-Gott
  éron
 LOCATION:Gottardo Arena
 END:VEVENT
@@ -2512,12 +2548,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: SCL Tigers
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - SCRJ Lakers
+SUMMARY:EHC Biel-Bienne - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270122T194500
 DTEND;TZID=Europe/Zurich:20270122T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000277-ehcb-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Rapperswil-
+ Jona Lakers
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2558,12 +2595,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Lugano
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Ambri-Piotta
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270123T194500
 DTEND;TZID=Europe/Zurich:20270123T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000285-scrj-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
+ mbrì-Piotta
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2612,22 +2650,22 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Bern
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - SCRJ Lakers
+SUMMARY:Genève-Servette HC - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270128T194500
 DTEND;TZID=Europe/Zurich:20270128T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000298-gshc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SCRJ Laker
- s
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Rappers
+ wil-Jona Lakers
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - HC Ambri-Piotta
+SUMMARY:HC Ajoie - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270129T194500
 DTEND;TZID=Europe/Zurich:20270129T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000288-hca-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambrì-Piotta
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2649,12 +2687,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Lausanne HC
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - EHC Kloten
+SUMMARY:SC Rapperswil-Jona Lakers - EHC Kloten
 DTSTART;TZID=Europe/Zurich:20270129T194500
 DTEND;TZID=Europe/Zurich:20270129T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000291-scrj-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
+ Kloten
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2685,13 +2724,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Genève-Servette HC
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EHC Biel-Bienne
+SUMMARY:HC Ambrì-Piotta - EHC Biel-Bienne
 DTSTART;TZID=Europe/Zurich:20270130T194500
 DTEND;TZID=Europe/Zurich:20270130T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000295-hcap-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EHC Biel-Bienn
- e
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Biel-Bien
+ ne
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2759,12 +2798,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Genève-Ser
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Davos
+SUMMARY:SC Rapperswil-Jona Lakers - HC Davos
 DTSTART;TZID=Europe/Zurich:20270202T194500
 DTEND;TZID=Europe/Zurich:20270202T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000305-scrj-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC D
+ avos
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2786,12 +2826,12 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EV Zug
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - HC Ambri-Piotta
+SUMMARY:ZSC Lions - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270202T194500
 DTEND;TZID=Europe/Zurich:20270202T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000308-zsc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambrì-Piotta
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2813,12 +2853,12 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Bern
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - HC Lugano
+SUMMARY:HC Ambrì-Piotta - HC Lugano
 DTSTART;TZID=Europe/Zurich:20270205T194500
 DTEND;TZID=Europe/Zurich:20270205T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000309-hcap-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Lugano
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2877,12 +2917,12 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: ZSC Lions
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - HC Ambri-Piotta
+SUMMARY:HC Davos - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270206T194500
 DTEND;TZID=Europe/Zurich:20270206T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000318-hcd-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: HC Ambrì-Piotta
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2904,21 +2944,23 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCL Tigers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - SCRJ Lakers
+SUMMARY:EV Zug - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270206T194500
 DTEND;TZID=Europe/Zurich:20270206T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000322-evz-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: SC Rapperswil-Jona Lake
+ rs
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Ajoie
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ajoie
 DTSTART;TZID=Europe/Zurich:20270207T154500
 DTEND;TZID=Europe/Zurich:20270207T174500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000312-scrj-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
+ joie
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2958,21 +3000,22 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Kloten
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - HC Ambri-Piotta
+SUMMARY:Lausanne HC - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270216T194500
 DTEND;TZID=Europe/Zurich:20270216T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000326-lhc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ambrì-Piotta
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - SCRJ Lakers
+SUMMARY:HC Lugano - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270216T194500
 DTEND;TZID=Europe/Zurich:20270216T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000327-hcl-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SC Rapperswil-Jona L
+ akers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -3012,12 +3055,12 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: EV Zug
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - SCL Tigers
+SUMMARY:HC Ambrì-Piotta - SCL Tigers
 DTSTART;TZID=Europe/Zurich:20270219T194500
 DTEND;TZID=Europe/Zurich:20270219T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000331-hcap-scl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: SCL Tigers
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: SCL Tigers
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -3039,12 +3082,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SC Bern
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Fribourg-Gottéron
+SUMMARY:SC Rapperswil-Jona Lakers - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20270219T194500
 DTEND;TZID=Europe/Zurich:20270219T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000335-scrj-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Frib
+ ourg-Gottéron
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -3093,12 +3137,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: ZSC Lions
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - SCRJ Lakers
+SUMMARY:SCL Tigers - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270220T194500
 DTEND;TZID=Europe/Zurich:20270220T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000342-scl-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Rapperswil-Jona 
+ Lakers
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
@@ -3112,12 +3157,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Genève-Servette H
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - HC Ambri-Piotta
+SUMMARY:EV Zug - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270221T140000
 DTEND;TZID=Europe/Zurich:20270221T160000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000343-evz-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambrì-Piotta
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
@@ -3130,12 +3175,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SCL Tigers
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - SC Bern
+SUMMARY:HC Ambrì-Piotta - SC Bern
 DTSTART;TZID=Europe/Zurich:20270225T194500
 DTEND;TZID=Europe/Zurich:20270225T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000345-hcap-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: SC Bern
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -3166,12 +3211,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: EV Zug
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Lausanne HC
+SUMMARY:SC Rapperswil-Jona Lakers - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20270225T194500
 DTEND;TZID=Europe/Zurich:20270225T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000349-scrj-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Laus
+ anne HC
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -3184,12 +3230,12 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Fribourg-Gottéron
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - EHC Kloten
+SUMMARY:HC Ambrì-Piotta - EHC Kloten
 DTSTART;TZID=Europe/Zurich:20270227T194500
 DTEND;TZID=Europe/Zurich:20270227T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000351-hcap-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Kloten
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -3229,12 +3275,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: Genève-Servette HC
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - SCRJ Lakers
+SUMMARY:ZSC Lions - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270227T194500
 DTEND;TZID=Europe/Zurich:20270227T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000356-zsc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Rapperswil-Jona L
+ akers
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -3274,13 +3321,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Lugano
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - HC Ambri-Piotta
+SUMMARY:Genève-Servette HC - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270301T194500
 DTEND;TZID=Europe/Zurich:20270301T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T115340Z
 UID:20271105000361-gshc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ambri-P
- iotta
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ambrì-
+ Piotta
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
@@ -3293,12 +3340,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SCL Tigers
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - SC Bern
+SUMMARY:SC Rapperswil-Jona Lakers - SC Bern
 DTSTART;TZID=Europe/Zurich:20270301T194500
 DTEND;TZID=Europe/Zurich:20270301T214500
-DTSTAMP:20260725T095123Z
+DTSTAMP:20260725T115340Z
 UID:20271105000363-scrj-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: SC B
+ ern
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
