@@ -48,12 +48,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ajoie
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - SCRJ Lakers
+SUMMARY:HC Ajoie - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20260926T194500
 DTEND;TZID=Europe/Zurich:20260926T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000036-hca-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SC Rapperswil-Jona La
+ kers
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -165,12 +166,13 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SC Bern
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Ajoie
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ajoie
 DTSTART;TZID=Europe/Zurich:20261031T194500
 DTEND;TZID=Europe/Zurich:20261031T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000131-scrj-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
+ joie
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -282,12 +284,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ajoie
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - SCRJ Lakers
+SUMMARY:HC Ajoie - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261222T194500
 DTEND;TZID=Europe/Zurich:20261222T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000218-hca-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SC Rapperswil-Jona La
+ kers
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -408,12 +411,13 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Lausanne HC
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Ajoie
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ajoie
 DTSTART;TZID=Europe/Zurich:20270207T154500
 DTEND;TZID=Europe/Zurich:20270207T174500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000312-scrj-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
+ joie
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

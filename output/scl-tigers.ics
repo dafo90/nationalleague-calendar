@@ -84,12 +84,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EHC Kloten
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - SCRJ Lakers
+SUMMARY:SCL Tigers - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261009T194500
 DTEND;TZID=Europe/Zurich:20261009T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000069-scl-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Rapperswil-Jona 
+ Lakers
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
@@ -201,12 +202,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ambri-Piotta
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - SCL Tigers
+SUMMARY:SC Rapperswil-Jona Lakers - SCL Tigers
 DTSTART;TZID=Europe/Zurich:20261122T140000
 DTEND;TZID=Europe/Zurich:20261122T160000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000160-scrj-scl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: SCL Tigers
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: SCL 
+ Tigers
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -327,12 +329,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ambri-Piotta
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - SCL Tigers
+SUMMARY:SC Rapperswil-Jona Lakers - SCL Tigers
 DTSTART;TZID=Europe/Zurich:20270108T194500
 DTEND;TZID=Europe/Zurich:20270108T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000251-scrj-scl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: SCL Tigers
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: SCL 
+ Tigers
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -435,12 +438,13 @@ DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: SCL Tigers
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - SCRJ Lakers
+SUMMARY:SCL Tigers - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270220T194500
 DTEND;TZID=Europe/Zurich:20270220T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000342-scl-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Rapperswil-Jona 
+ Lakers
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

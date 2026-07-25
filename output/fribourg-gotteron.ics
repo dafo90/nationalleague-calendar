@@ -22,12 +22,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Lausanne HC
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Fribourg-Gottéron
+SUMMARY:SC Rapperswil-Jona Lakers - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20260919T194500
 DTEND;TZID=Europe/Zurich:20260919T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000018-scrj-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Frib
+ ourg-Gottéron
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -189,12 +190,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Kloten
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - SCRJ Lakers
+SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000150-fri-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Rappersw
+ il-Jona Lakers
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -309,12 +311,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Fribourg-Gottéron
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - SCRJ Lakers
+SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20270103T154500
 DTEND;TZID=Europe/Zurich:20270103T174500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000241-fri-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Rappersw
+ il-Jona Lakers
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -438,12 +441,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Kloten
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - Fribourg-Gottéron
+SUMMARY:SC Rapperswil-Jona Lakers - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20270219T194500
 DTEND;TZID=Europe/Zurich:20270219T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000335-scrj-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Frib
+ ourg-Gottéron
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

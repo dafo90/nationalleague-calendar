@@ -12,12 +12,13 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambri-Piotta
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - SCRJ Lakers
+SUMMARY:HC Ambri-Piotta - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20260918T194500
 DTEND;TZID=Europe/Zurich:20260918T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000008-hcap-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: SC Rapperswil-
+ Jona Lakers
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -124,12 +125,13 @@ DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Fribourg-Gott
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Ambri-Piotta
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ambri-Piotta
 DTSTART;TZID=Europe/Zurich:20261023T194500
 DTEND;TZID=Europe/Zurich:20261023T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000102-scrj-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
+ mbri-Piotta
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -243,12 +245,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ambri-P
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambri-Piotta - SCRJ Lakers
+SUMMARY:HC Ambri-Piotta - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261205T194500
 DTEND;TZID=Europe/Zurich:20261205T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000191-hcap-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: SCRJ Lakers
+DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: SC Rapperswil-
+ Jona Lakers
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -373,12 +376,13 @@ DESCRIPTION:National League\n\nHome: HC Ambri-Piotta\nAway: Fribourg-Gott
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCRJ Lakers - HC Ambri-Piotta
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ambri-Piotta
 DTSTART;TZID=Europe/Zurich:20270123T194500
 DTEND;TZID=Europe/Zurich:20270123T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260725T041248Z
 UID:20271105000285-scrj-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Ambri-Piotta
+DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
+ mbri-Piotta
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
