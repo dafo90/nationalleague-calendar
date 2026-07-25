@@ -57,13 +57,12 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: Genève-Servette HC
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - SC Bern
+SUMMARY:SCRJ Lakers - SC Bern
 DTSTART;TZID=Europe/Zurich:20261003T194500
 DTEND;TZID=Europe/Zurich:20261003T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000061-scrj-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: SC B
- ern
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: SC Bern
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -220,13 +219,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Bern
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - SC Rapperswil-Jona Lakers
+SUMMARY:SC Bern - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20261128T194500
 DTEND;TZID=Europe/Zurich:20261128T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000176-scb-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: SC Rapperswil-Jona Lak
- ers
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: SCRJ Lakers
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -338,13 +336,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Bern
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - SC Rapperswil-Jona Lakers
+SUMMARY:SC Bern - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20270116T194500
 DTEND;TZID=Europe/Zurich:20270116T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000268-scb-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: SC Rapperswil-Jona Lak
- ers
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: SCRJ Lakers
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -465,13 +462,12 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: Lausanne HC
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - SC Bern
+SUMMARY:SCRJ Lakers - SC Bern
 DTSTART;TZID=Europe/Zurich:20270301T194500
 DTEND;TZID=Europe/Zurich:20270301T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000363-scrj-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: SC B
- ern
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: SC Bern
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 END:VCALENDAR

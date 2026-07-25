@@ -105,23 +105,21 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ajoie
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - EHC Biel-Bienne
+SUMMARY:SCRJ Lakers - EHC Biel-Bienne
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000089-scrj-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
- Biel-Bienne
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Biel-Bienne
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - SC Rapperswil-Jona Lakers
+SUMMARY:EHC Biel-Bienne - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20261020T194500
 DTEND;TZID=Europe/Zurich:20261020T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000094-ehcb-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Rapperswil-
- Jona Lakers
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SCRJ Lakers
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -227,13 +225,12 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Lausanne HC
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - EHC Biel-Bienne
+SUMMARY:SCRJ Lakers - EHC Biel-Bienne
 DTSTART;TZID=Europe/Zurich:20261204T194500
 DTEND;TZID=Europe/Zurich:20261204T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000187-scrj-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
- Biel-Bienne
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Biel-Bienne
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -366,13 +363,12 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Lausanne HC
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - SC Rapperswil-Jona Lakers
+SUMMARY:EHC Biel-Bienne - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20270122T194500
 DTEND;TZID=Europe/Zurich:20270122T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000277-ehcb-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Rapperswil-
- Jona Lakers
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SCRJ Lakers
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT

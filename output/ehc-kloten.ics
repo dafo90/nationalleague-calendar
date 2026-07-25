@@ -3,13 +3,12 @@ VERSION:2.0
 PRODID:-//National League Calendar Generator//
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - EHC Kloten
+SUMMARY:SCRJ Lakers - EHC Kloten
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000004-scrj-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
- Kloten
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Kloten
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -139,13 +138,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EHC Kloten
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - SC Rapperswil-Jona Lakers
+SUMMARY:EHC Kloten - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000110-ehck-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SC Rapperswil-Jona 
- Lakers
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SCRJ Lakers
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -257,13 +255,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EHC Kloten
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - SC Rapperswil-Jona Lakers
+SUMMARY:EHC Kloten - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20261216T194500
 DTEND;TZID=Europe/Zurich:20261216T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000201-ehck-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SC Rapperswil-Jona 
- Lakers
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SCRJ Lakers
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -375,13 +372,12 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Lugano
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - EHC Kloten
+SUMMARY:SCRJ Lakers - EHC Kloten
 DTSTART;TZID=Europe/Zurich:20270129T194500
 DTEND;TZID=Europe/Zurich:20270129T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000291-scrj-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
- Kloten
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EHC Kloten
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

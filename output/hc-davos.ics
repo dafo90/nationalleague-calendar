@@ -39,13 +39,12 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: Fribourg-Gottéron
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - HC Davos
+SUMMARY:SCRJ Lakers - HC Davos
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000033-scrj-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC D
- avos
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Davos
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -157,13 +156,12 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Davos
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - SC Rapperswil-Jona Lakers
+SUMMARY:HC Davos - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20261030T194500
 DTEND;TZID=Europe/Zurich:20261030T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000122-hcd-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Rapperswil-Jona La
- kers
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: SCRJ Lakers
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -266,13 +264,12 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Davos
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - SC Rapperswil-Jona Lakers
+SUMMARY:HC Davos - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20261219T194500
 DTEND;TZID=Europe/Zurich:20261219T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000213-hcd-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Rapperswil-Jona La
- kers
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: SCRJ Lakers
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -384,13 +381,12 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: Fribourg-Gottéron
 LOCATION:zondacrypto-Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - HC Davos
+SUMMARY:SCRJ Lakers - HC Davos
 DTSTART;TZID=Europe/Zurich:20270202T194500
 DTEND;TZID=Europe/Zurich:20270202T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000305-scrj-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC D
- avos
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Davos
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
