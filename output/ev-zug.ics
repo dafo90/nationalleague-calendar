@@ -39,13 +39,12 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EV Zug
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - EV Zug
+SUMMARY:SCRJ Lakers - EV Zug
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000047-scrj-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EV Z
- ug
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EV Zug
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -130,13 +129,12 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambri-Piotta
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - SC Rapperswil-Jona Lakers
+SUMMARY:EV Zug - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20261113T194500
 DTEND;TZID=Europe/Zurich:20261113T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000140-evz-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: SC Rapperswil-Jona Lake
- rs
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: SCRJ Lakers
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
@@ -257,13 +255,12 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: SC Bern
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - EV Zug
+SUMMARY:SCRJ Lakers - EV Zug
 DTSTART;TZID=Europe/Zurich:20261223T194500
 DTEND;TZID=Europe/Zurich:20261223T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000228-scrj-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EV Z
- ug
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: EV Zug
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -411,13 +408,12 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: EV Zug
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - SC Rapperswil-Jona Lakers
+SUMMARY:EV Zug - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20270206T194500
 DTEND;TZID=Europe/Zurich:20270206T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000322-evz-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: SC Rapperswil-Jona Lake
- rs
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: SCRJ Lakers
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT

@@ -93,13 +93,12 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Fribourg-Gottéron
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - SC Rapperswil-Jona Lakers
+SUMMARY:ZSC Lions - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20261016T194500
 DTEND;TZID=Europe/Zurich:20261016T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000083-zsc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Rapperswil-Jona L
- akers
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SCRJ Lakers
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -211,13 +210,12 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: ZSC Lions
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - ZSC Lions
+SUMMARY:SCRJ Lakers - ZSC Lions
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000173-scrj-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: ZSC 
- Lions
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: ZSC Lions
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -329,13 +327,12 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: ZSC Lions
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - ZSC Lions
+SUMMARY:SCRJ Lakers - ZSC Lions
 DTSTART;TZID=Europe/Zurich:20270114T200000
 DTEND;TZID=Europe/Zurich:20270114T220000
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000265-scrj-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: ZSC 
- Lions
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: ZSC Lions
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -456,13 +453,12 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Fribourg-Gottéron
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - SC Rapperswil-Jona Lakers
+SUMMARY:ZSC Lions - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20270227T194500
 DTEND;TZID=Europe/Zurich:20270227T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000356-zsc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Rapperswil-Jona L
- akers
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SCRJ Lakers
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT

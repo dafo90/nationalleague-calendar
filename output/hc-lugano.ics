@@ -48,13 +48,12 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Lugano
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - SC Rapperswil-Jona Lakers
+SUMMARY:HC Lugano - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20261002T194500
 DTEND;TZID=Europe/Zurich:20261002T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000055-hcl-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SC Rapperswil-Jona L
- akers
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCRJ Lakers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -184,13 +183,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCL Tigers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - HC Lugano
+SUMMARY:SCRJ Lakers - HC Lugano
 DTSTART;TZID=Europe/Zurich:20261114T194500
 DTEND;TZID=Europe/Zurich:20261114T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000145-scrj-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC L
- ugano
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Lugano
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -302,13 +300,12 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Lugano
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - HC Lugano
+SUMMARY:SCRJ Lakers - HC Lugano
 DTSTART;TZID=Europe/Zurich:20270102T194500
 DTEND;TZID=Europe/Zurich:20270102T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000237-scrj-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC L
- ugano
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: HC Lugano
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -420,13 +417,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCL Tigers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - SC Rapperswil-Jona Lakers
+SUMMARY:HC Lugano - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20270216T194500
 DTEND;TZID=Europe/Zurich:20270216T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000327-hcl-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SC Rapperswil-Jona L
- akers
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SCRJ Lakers
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT

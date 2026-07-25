@@ -30,13 +30,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Genève-Servette HC
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - SC Rapperswil-Jona Lakers
+SUMMARY:Genève-Servette HC - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000025-gshc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Rappers
- wil-Jona Lakers
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SCRJ Laker
+ s
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
@@ -152,13 +152,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: ZSC Lions
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - Genève-Servette HC
+SUMMARY:SCRJ Lakers - Genève-Servette HC
 DTSTART;TZID=Europe/Zurich:20261027T194500
 DTEND;TZID=Europe/Zurich:20261027T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000117-scrj-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Gen
- ève-Servette HC
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Genève-Servette H
+ C
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -274,13 +274,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: ZSC Lions
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - Genève-Servette HC
+SUMMARY:SCRJ Lakers - Genève-Servette HC
 DTSTART;TZID=Europe/Zurich:20261218T194500
 DTEND;TZID=Europe/Zurich:20261218T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000207-scrj-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Gen
- ève-Servette HC
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Genève-Servette H
+ C
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -387,13 +387,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ajoie
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - SC Rapperswil-Jona Lakers
+SUMMARY:Genève-Servette HC - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20270128T194500
 DTEND;TZID=Europe/Zurich:20270128T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000298-gshc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Rappers
- wil-Jona Lakers
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SCRJ Laker
+ s
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT

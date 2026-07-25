@@ -94,13 +94,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Lugano
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - Lausanne HC
+SUMMARY:SCRJ Lakers - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20261010T194500
 DTEND;TZID=Europe/Zurich:20261010T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000076-scrj-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Laus
- anne HC
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Lausanne HC
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -213,13 +212,12 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Lausanne H
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - SC Rapperswil-Jona Lakers
+SUMMARY:Lausanne HC - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20261124T194500
 DTEND;TZID=Europe/Zurich:20261124T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000165-lhc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Rapperswil-Jona
-  Lakers
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SCRJ Lakers
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
@@ -341,13 +339,12 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Lausanne H
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - SC Rapperswil-Jona Lakers
+SUMMARY:Lausanne HC - SCRJ Lakers
 DTSTART;TZID=Europe/Zurich:20270110T140000
 DTEND;TZID=Europe/Zurich:20270110T160000
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000256-lhc-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Rapperswil-Jona
-  Lakers
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SCRJ Lakers
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
@@ -451,13 +448,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Genève-Servette H
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - Lausanne HC
+SUMMARY:SCRJ Lakers - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20270225T194500
 DTEND;TZID=Europe/Zurich:20270225T214500
-DTSTAMP:20260725T041248Z
+DTSTAMP:20260725T095123Z
 UID:20271105000349-scrj-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Laus
- anne HC
+DESCRIPTION:National League\n\nHome: SCRJ Lakers\nAway: Lausanne HC
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
