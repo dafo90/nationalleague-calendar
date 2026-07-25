@@ -86,6 +86,30 @@ def is_in_tracked_season(game):
     return game_dt >= SEASON_CUTOFF
 
 
+# The API has been observed returning inconsistent values for the same
+# team's name across different calls (e.g. "SC Rapperswil-Jona Lakers"
+# vs "SCRJ Lakers"). The short code appears to be stable, so it's used
+# as a lookup key into this fixed canonical name table, keeping the
+# displayed name (and file naming) constant regardless of what the
+# API's full-name field returns on a given call.
+CANONICAL_TEAM_NAMES = {
+    "ZSC": "ZSC Lions",
+    "EVZ": "EV Zug",
+    "HCL": "HC Lugano",
+    "EHCK": "EHC Kloten",
+    "HCAP": "HC Ambrì-Piotta",
+    "HCA": "HC Ajoie",
+    "EHCB": "EHC Biel-Bienne",
+    "FRI": "Fribourg-Gottéron",
+    "SCB": "SC Bern",
+    "HCD": "HC Davos",
+    "LHC": "Lausanne HC",
+    "GSHC": "Genève-Servette HC",
+    "SCL": "SCL Tigers",
+    "SCRJ": "SC Rapperswil-Jona Lakers",
+}
+
+
 def create_calendar():
     calendar = Calendar()
 
@@ -108,15 +132,23 @@ def create_calendar():
 
 
 def get_team_name(game, side):
-    """side is 'home' or 'away'. Falls back to the short name, then 'Unknown'."""
+    """side is 'home' or 'away'. Raises if the short code isn't mapped."""
 
-    name = (
-        game.get(f"{side}TeamName")
-        or game.get(f"{side}TeamShortName")
-        or "Unknown"
-    )
+    short_code = game.get(f"{side}TeamShortName")
 
-    return html.unescape(name)
+    if not short_code:
+        raise Exception(
+            f"Missing {side}TeamShortName for game {game.get('gameId')}"
+        )
+
+    if short_code not in CANONICAL_TEAM_NAMES:
+        raise Exception(
+            f"Unknown team short code {short_code!r} for game "
+            f"{game.get('gameId')} (side={side}). Add it to "
+            f"CANONICAL_TEAM_NAMES."
+        )
+
+    return CANONICAL_TEAM_NAMES[short_code]
 
 
 def get_score(game):
