@@ -191,15 +191,11 @@ def create_event(game):
     away = get_team_name(game, "away")
 
     score = get_score(game)
-    is_exhibition = is_exhibition(game)
 
     summary = f"{home} - {away}"
 
     if score:
         summary += f" ({score})"
-
-    if is_exhibition:
-        summary += " [Amichevole]"
 
     # The API has been observed reusing the same gameId for genuinely
     # different matches. Including the team short names in the UID
@@ -267,7 +263,7 @@ def create_event(game):
     )
 
     description = [
-        "National League" if not is_exhibition else "National League (Amichevole)",
+        "National League",
         "",
         f"Home: {home}",
         f"Away: {away}",
@@ -379,15 +375,6 @@ def main():
         if is_in_tracked_season(game)
     ]
 
-    # Teams that only ever show up in exhibition games (e.g. a foreign
-    # club playing a single friendly) don't get their own .ics file.
-    teams_with_regular_season = set()
-
-    for game in games:
-        if not is_exhibition(game):
-            teams_with_regular_season.add(get_team_name(game, "home"))
-            teams_with_regular_season.add(get_team_name(game, "away"))
-
     # events_by_calendar maps a calendar key ("all" or a team name) to a
     # dict of {uid: VEVENT}, seeded with whatever was already saved on
     # disk so old events are preserved even if the API stops returning
@@ -405,6 +392,9 @@ def main():
     get_calendar_events("all", "all.ics")
 
     for game in games:
+
+        if is_exhibition(game):
+            continue
 
         home = get_team_name(game, "home")
         away = get_team_name(game, "away")
@@ -427,9 +417,6 @@ def main():
         events_by_calendar["all"][uid] = event
 
         for team in [home, away]:
-            if team not in teams_with_regular_season:
-                continue
-
             filename = f"{slugify(team)}.ics"
             team_events = get_calendar_events(team, filename)
             team_events[uid] = event
