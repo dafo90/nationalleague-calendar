@@ -107,6 +107,7 @@ CANONICAL_TEAM_NAMES = {
     "GSHC": "Genève-Servette HC",
     "SCL": "SCL Tigers",
     "SCRJ": "SC Rapperswil-Jona Lakers",
+    "SW": "Schwenninger Wild Wings",
 }
 
 
