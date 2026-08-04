@@ -107,7 +107,6 @@ CANONICAL_TEAM_NAMES = {
     "GSHC": "Genève-Servette HC",
     "SCL": "SCL Tigers",
     "SCRJ": "SC Rapperswil-Jona Lakers",
-    "SW": "Schwenninger Wild Wings",
 }
 
 
@@ -192,7 +191,7 @@ def create_event(game):
     away = get_team_name(game, "away")
 
     score = get_score(game)
-    is_exhibition = bool(game.get("isExhibition"))
+    is_exhibition = is_exhibition(game)
 
     summary = f"{home} - {away}"
 
@@ -360,6 +359,16 @@ def save_calendar(calendar, filename):
         )
 
 
+def is_exhibition(game):
+    if game.get("isExhibition"):
+        return True
+
+    home_short_name = game.get("homeTeamShortName")
+    away_short_name = game.get("awayTeamShortName")
+
+    return home_short_name not in CANONICAL_TEAM_NAMES or away_short_name not in CANONICAL_TEAM_NAMES
+
+
 def main():
 
     games = load_games()
@@ -375,7 +384,7 @@ def main():
     teams_with_regular_season = set()
 
     for game in games:
-        if not game.get("isExhibition"):
+        if not is_exhibition(game):
             teams_with_regular_season.add(get_team_name(game, "home"))
             teams_with_regular_season.add(get_team_name(game, "away"))
 
