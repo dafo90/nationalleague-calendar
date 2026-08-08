@@ -35,10 +35,10 @@ BEGIN:VEVENT
 SUMMARY:HC Davos - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260808T025519Z
 UID:20271105000115-hcd-fri@nationalleague.ch
 DESCRIPTION:National League\n\nHome: HC Davos\nAway: Fribourg-Gottéron
-LOCATION:zondacrypto-Arena
+LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Genève-Servette HC - Fribourg-Gottéron
@@ -398,10 +398,10 @@ BEGIN:VEVENT
 SUMMARY:HC Davos - Fribourg-Gottéron
 DTSTART;TZID=Europe/Zurich:20270130T194500
 DTEND;TZID=Europe/Zurich:20270130T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260808T025519Z
 UID:20271105000297-hcd-fri@nationalleague.ch
 DESCRIPTION:National League\n\nHome: HC Davos\nAway: Fribourg-Gottéron
-LOCATION:zondacrypto-Arena
+LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fribourg-Gottéron - Genève-Servette HC

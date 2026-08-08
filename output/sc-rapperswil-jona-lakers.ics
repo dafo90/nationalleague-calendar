@@ -176,11 +176,11 @@ BEGIN:VEVENT
 SUMMARY:HC Davos - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261030T194500
 DTEND;TZID=Europe/Zurich:20261030T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260808T025519Z
 UID:20271105000122-hcd-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Rapperswil-Jona La
  kers
-LOCATION:zondacrypto-Arena
+LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SC Rapperswil-Jona Lakers - HC Ajoie
@@ -306,11 +306,11 @@ BEGIN:VEVENT
 SUMMARY:HC Davos - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261219T194500
 DTEND;TZID=Europe/Zurich:20261219T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260808T025519Z
 UID:20271105000213-hcd-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Rapperswil-Jona La
  kers
-LOCATION:zondacrypto-Arena
+LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HC Ajoie - SC Rapperswil-Jona Lakers
