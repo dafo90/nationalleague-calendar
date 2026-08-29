@@ -3147,16 +3147,6 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Rapperswil-Jona
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - Genève-Servette HC
-DTSTART;TZID=Europe/Zurich:20270221T140000
-DTEND;TZID=Europe/Zurich:20270221T160000
-DTSTAMP:20260724T202404Z
-UID:20271105000340-lhc-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Genève-Servette H
- C
-LOCATION:Vaudoise Aréna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EV Zug - HC Ambrì-Piotta
 DTSTART;TZID=Europe/Zurich:20270221T140000
 DTEND;TZID=Europe/Zurich:20270221T160000
@@ -3164,6 +3154,16 @@ DTSTAMP:20260725T115340Z
 UID:20271105000343-evz-hcap@nationalleague.ch
 DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambrì-Piotta
 LOCATION:OYM hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lausanne HC - Genève-Servette HC
+DTSTART;TZID=Europe/Zurich:20270221T154500
+DTEND;TZID=Europe/Zurich:20270221T174500
+DTSTAMP:20260829T074256Z
+UID:20271105000340-lhc-gshc@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Genève-Servette H
+ C
+LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HC Ajoie - SCL Tigers
