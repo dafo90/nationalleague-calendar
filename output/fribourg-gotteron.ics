@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//National League Calendar Generator//
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - Fribourg-Gottéron
+SUMMARY:EHC Biel-Bienne - Fribourg-Gottéron (4-2)
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260916T054344Z
 UID:20271105000002-ehcb-fri@nationalleague.ch
 DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Fribourg-Gott
- éron
+ éron\nScore: 4-2
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT

@@ -3,12 +3,13 @@ VERSION:2.0
 PRODID:-//National League Calendar Generator//
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - HC Ambrì-Piotta
+SUMMARY:HC Ajoie - HC Ambrì-Piotta (2-3 SO)
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260725T115339Z
+DTSTAMP:20260916T054344Z
 UID:20271105000001-hca-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambrì-Piotta
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambrì-Piotta\nSco
+ re: 2-3 SO
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT

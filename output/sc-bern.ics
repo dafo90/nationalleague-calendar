@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//National League Calendar Generator//
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - SC Bern
+SUMMARY:ZSC Lions - SC Bern (5-3)
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260916T054344Z
 UID:20271105000007-zsc-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Bern\nScore: 5-3
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT

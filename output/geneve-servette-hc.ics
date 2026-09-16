@@ -3,12 +3,13 @@ VERSION:2.0
 PRODID:-//National League Calendar Generator//
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-SUMMARY:HC Lugano - Genève-Servette HC
+SUMMARY:HC Lugano - Genève-Servette HC (6-3)
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260916T054344Z
 UID:20271105000006-hcl-gshc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Genève-Servette HC
+ \nScore: 6-3
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT

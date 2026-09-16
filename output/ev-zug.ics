@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//National League Calendar Generator//
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - EV Zug
+SUMMARY:Lausanne HC - EV Zug (0-5)
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260916T054344Z
 UID:20271105000005-lhc-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EV Zug\nScore: 0-5
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT

@@ -3,12 +3,13 @@ VERSION:2.0
 PRODID:-//National League Calendar Generator//
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-SUMMARY:HC Davos - SCL Tigers
+SUMMARY:HC Davos - SCL Tigers (4-1)
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260808T025518Z
+DTSTAMP:20260916T054344Z
 UID:20271105000003-hcd-scl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: SCL Tigers
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: SCL Tigers\nScore: 4-
+ 1
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT

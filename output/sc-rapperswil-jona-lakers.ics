@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//National League Calendar Generator//
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - EHC Kloten
+SUMMARY:SC Rapperswil-Jona Lakers - EHC Kloten (3-4 OT)
 DTSTART;TZID=Europe/Zurich:20260915T194500
 DTEND;TZID=Europe/Zurich:20260915T214500
-DTSTAMP:20260725T115339Z
+DTSTAMP:20260916T054344Z
 UID:20271105000004-scrj-ehck@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
- Kloten
+ Kloten\nScore: 3-4 OT
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
