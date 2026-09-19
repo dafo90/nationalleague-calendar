@@ -13,12 +13,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Genève-Servette HC
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - HC Lugano
+SUMMARY:EHC Kloten - HC Lugano (5-2)
 DTSTART;TZID=Europe/Zurich:20260918T194500
 DTEND;TZID=Europe/Zurich:20260918T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260919T053258Z
 UID:20271105000012-ehck-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Lugano\nScore: 5
+ -2
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT

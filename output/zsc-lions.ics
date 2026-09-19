@@ -12,12 +12,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Bern\nScore: 5-3
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - ZSC Lions
+SUMMARY:SCL Tigers - ZSC Lions (3-4)
 DTSTART;TZID=Europe/Zurich:20260918T194500
 DTEND;TZID=Europe/Zurich:20260918T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260919T053258Z
 UID:20271105000013-scl-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: ZSC Lions\nScore: 3
+ -4
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

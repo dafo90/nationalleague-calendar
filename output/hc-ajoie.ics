@@ -13,12 +13,13 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Ambrì-Piotta\nSco
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - HC Ajoie
+SUMMARY:Genève-Servette HC - HC Ajoie (3-4 SO)
 DTSTART;TZID=Europe/Zurich:20260918T194500
 DTEND;TZID=Europe/Zurich:20260918T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260919T053258Z
 UID:20271105000011-gshc-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ajoie\n
+ Score: 3-4 SO
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
