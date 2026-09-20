@@ -23,13 +23,13 @@ DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: SC Rapperswil
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - Fribourg-Gottéron
+SUMMARY:SC Rapperswil-Jona Lakers - Fribourg-Gottéron (3-2)
 DTSTART;TZID=Europe/Zurich:20260919T194500
 DTEND;TZID=Europe/Zurich:20260919T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260920T055048Z
 UID:20271105000018-scrj-fri@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Frib
- ourg-Gottéron
+ ourg-Gottéron\nScore: 3-2
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

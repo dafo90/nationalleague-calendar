@@ -12,12 +12,12 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EV Zug\nScore: 0-5
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - EV Zug
+SUMMARY:HC Davos - EV Zug (2-6)
 DTSTART;TZID=Europe/Zurich:20260919T194500
 DTEND;TZID=Europe/Zurich:20260919T214500
-DTSTAMP:20260804T192911Z
+DTSTAMP:20260920T055048Z
 UID:20271105000017-hcd-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: EV Zug\nScore: 2-6
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT

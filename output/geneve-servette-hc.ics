@@ -23,12 +23,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ajoie\n
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - Genève-Servette HC
+SUMMARY:ZSC Lions - Genève-Servette HC (3-0)
 DTSTART;TZID=Europe/Zurich:20260919T194500
 DTEND;TZID=Europe/Zurich:20260919T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260920T055048Z
 UID:20271105000021-zsc-gshc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Genève-Servette HC
+ \nScore: 3-0
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT

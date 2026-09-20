@@ -13,12 +13,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Fribourg-Gott
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - SCL Tigers
+SUMMARY:EHC Biel-Bienne - SCL Tigers (3-4 SO)
 DTSTART;TZID=Europe/Zurich:20260919T194500
 DTEND;TZID=Europe/Zurich:20260919T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260920T055048Z
 UID:20271105000016-ehcb-scl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SCL Tigers
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SCL Tigers\nSc
+ ore: 3-4 SO
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT

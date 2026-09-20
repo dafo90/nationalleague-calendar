@@ -23,12 +23,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Lugano\nScore: 5
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - EHC Kloten
+SUMMARY:HC Ajoie - EHC Kloten (4-3 OT)
 DTSTART;TZID=Europe/Zurich:20260919T194500
 DTEND;TZID=Europe/Zurich:20260919T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260920T055048Z
 UID:20271105000015-hca-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: EHC Kloten\nScore: 4-
+ 3 OT
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT

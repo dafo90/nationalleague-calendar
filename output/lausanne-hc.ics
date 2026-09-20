@@ -22,12 +22,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Lausanne HC
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - HC Ambrì-Piotta
+SUMMARY:Lausanne HC - HC Ambrì-Piotta (4-1)
 DTSTART;TZID=Europe/Zurich:20260919T194500
 DTEND;TZID=Europe/Zurich:20260919T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260920T055048Z
 UID:20271105000019-lhc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ambrì-Piotta
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ambrì-Piotta\n
+ Score: 4-1
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
