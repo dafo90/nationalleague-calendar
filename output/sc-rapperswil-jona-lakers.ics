@@ -33,13 +33,13 @@ DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Frib
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - SC Rapperswil-Jona Lakers
+SUMMARY:Genève-Servette HC - SC Rapperswil-Jona Lakers (4-2)
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260923T053657Z
 UID:20271105000025-gshc-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Rappers
- wil-Jona Lakers
+ wil-Jona Lakers\nScore: 4-2
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT

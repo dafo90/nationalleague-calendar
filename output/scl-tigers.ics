@@ -33,12 +33,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SCL Tigers\nSc
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - Lausanne HC
+SUMMARY:SCL Tigers - Lausanne HC (3-5)
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260923T053657Z
 UID:20271105000028-scl-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: Lausanne HC\nScore:
+  3-5
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

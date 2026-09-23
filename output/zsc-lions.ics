@@ -32,12 +32,12 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Genève-Servette HC
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - ZSC Lions
+SUMMARY:HC Ajoie - ZSC Lions (2-4)
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260923T053657Z
 UID:20271105000022-hca-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: ZSC Lions\nScore: 2-4
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT

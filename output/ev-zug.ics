@@ -21,12 +21,13 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: EV Zug\nScore: 2-6
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - EV Zug
+SUMMARY:HC Lugano - EV Zug (3-2 OT)
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260923T053657Z
 UID:20271105000027-hcl-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EV Zug\nScore: 3-2 O
+ T
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT

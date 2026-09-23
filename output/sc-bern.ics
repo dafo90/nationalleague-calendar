@@ -21,12 +21,12 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Davos\nScore: 5-2
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - SC Bern
+SUMMARY:EHC Kloten - SC Bern (1-4)
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260923T053657Z
 UID:20271105000026-ehck-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SC Bern\nScore: 1-4
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT

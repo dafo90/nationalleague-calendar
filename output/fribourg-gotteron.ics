@@ -33,12 +33,13 @@ DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Frib
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - Fribourg-Gottéron
+SUMMARY:HC Davos - Fribourg-Gottéron (1-2 SO)
 DTSTART;TZID=Europe/Zurich:20260922T194500
 DTEND;TZID=Europe/Zurich:20260922T214500
-DTSTAMP:20260808T025519Z
+DTSTAMP:20260923T053657Z
 UID:20271105000115-hcd-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: Fribourg-Gottéron\nS
+ core: 1-2 SO
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
