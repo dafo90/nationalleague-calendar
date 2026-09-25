@@ -33,12 +33,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ambrì-Piot
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - EHC Biel-Bienne
+SUMMARY:EHC Kloten - EHC Biel-Bienne (0-6)
 DTSTART;TZID=Europe/Zurich:20260924T200000
 DTEND;TZID=Europe/Zurich:20260924T220000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260925T055638Z
 UID:20271105000032-ehck-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: EHC Biel-Bienne
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: EHC Biel-Bienne\nSc
+ ore: 0-6
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
