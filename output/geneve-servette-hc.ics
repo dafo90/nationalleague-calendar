@@ -43,13 +43,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Rappers
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - Fribourg-Gottéron
+SUMMARY:Genève-Servette HC - Fribourg-Gottéron (4-3 SO)
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260926T055659Z
 UID:20271105000031-gshc-fri@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Fribourg-G
- ottéron
+ ottéron\nScore: 4-3 SO
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT

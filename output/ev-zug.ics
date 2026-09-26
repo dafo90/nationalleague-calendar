@@ -31,12 +31,12 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EV Zug\nScore: 3-2 O
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - EV Zug
+SUMMARY:SCL Tigers - EV Zug (5-3)
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260926T055659Z
 UID:20271105000035-scl-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EV Zug\nScore: 5-3
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

@@ -267,50 +267,52 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: EHC Biel-Bienne\nSc
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - ZSC Lions
+SUMMARY:HC Ambrì-Piotta - ZSC Lions (3-6)
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260926T055659Z
 UID:20271105000029-hcap-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: ZSC Lions\nSc
+ ore: 3-6
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - HC Ajoie
+SUMMARY:SC Bern - HC Ajoie (2-3 OT)
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260926T055659Z
 UID:20271105000030-scb-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ajoie\nScore: 2-3 O
+ T
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - Fribourg-Gottéron
+SUMMARY:Genève-Servette HC - Fribourg-Gottéron (4-3 SO)
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260926T055659Z
 UID:20271105000031-gshc-fri@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Fribourg-G
- ottéron
+ ottéron\nScore: 4-3 SO
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - HC Davos
+SUMMARY:SC Rapperswil-Jona Lakers - HC Davos (3-2)
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260926T055659Z
 UID:20271105000033-scrj-hcd@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC D
- avos
+ avos\nScore: 3-2
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - EV Zug
+SUMMARY:SCL Tigers - EV Zug (5-3)
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260926T055659Z
 UID:20271105000035-scl-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EV Zug\nScore: 5-3
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

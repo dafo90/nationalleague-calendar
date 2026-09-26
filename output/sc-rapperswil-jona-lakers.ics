@@ -43,13 +43,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Rappers
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - HC Davos
+SUMMARY:SC Rapperswil-Jona Lakers - HC Davos (3-2)
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260926T055659Z
 UID:20271105000033-scrj-hcd@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC D
- avos
+ avos\nScore: 3-2
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

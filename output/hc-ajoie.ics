@@ -42,12 +42,13 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: ZSC Lions\nScore: 2-4
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - HC Ajoie
+SUMMARY:SC Bern - HC Ajoie (2-3 OT)
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260926T055659Z
 UID:20271105000030-scb-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ajoie\nScore: 2-3 O
+ T
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT

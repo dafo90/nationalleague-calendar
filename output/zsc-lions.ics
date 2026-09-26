@@ -41,12 +41,13 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: ZSC Lions\nScore: 2-4
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - ZSC Lions
+SUMMARY:HC Ambrì-Piotta - ZSC Lions (3-6)
 DTSTART;TZID=Europe/Zurich:20260925T194500
 DTEND;TZID=Europe/Zurich:20260925T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260926T055659Z
 UID:20271105000029-hcap-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: ZSC Lions\nSc
+ ore: 3-6
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
