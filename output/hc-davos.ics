@@ -51,12 +51,13 @@ DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC D
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - Lausanne HC
+SUMMARY:HC Davos - Lausanne HC (4-2)
 DTSTART;TZID=Europe/Zurich:20260926T194500
 DTEND;TZID=Europe/Zurich:20260926T214500
-DTSTAMP:20260804T192911Z
+DTSTAMP:20260927T062249Z
 UID:20271105000038-hcd-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: Lausanne HC\nScore: 4
+ -2
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT

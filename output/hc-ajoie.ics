@@ -52,13 +52,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ajoie\nScore: 2-3 O
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - SC Rapperswil-Jona Lakers
+SUMMARY:HC Ajoie - SC Rapperswil-Jona Lakers (4-5 OT)
 DTSTART;TZID=Europe/Zurich:20260926T194500
 DTEND;TZID=Europe/Zurich:20260926T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260927T062249Z
 UID:20271105000036-hca-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: SC Rapperswil-Jona La
- kers
+ kers\nScore: 4-5 OT
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT

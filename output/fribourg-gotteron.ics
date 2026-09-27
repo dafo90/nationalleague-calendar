@@ -53,12 +53,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Fribourg-G
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - SCL Tigers
+SUMMARY:Fribourg-Gottéron - SCL Tigers (4-3 OT)
 DTSTART;TZID=Europe/Zurich:20260926T194500
 DTEND;TZID=Europe/Zurich:20260926T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260927T062249Z
 UID:20271105000039-fri-scl@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SCL Tigers
+ \nScore: 4-3 OT
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
