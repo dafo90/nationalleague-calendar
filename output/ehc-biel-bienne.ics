@@ -43,13 +43,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: EHC Biel-Bienne\nSc
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - Genève-Servette HC
+SUMMARY:EHC Biel-Bienne - Genève-Servette HC (0-2)
 DTSTART;TZID=Europe/Zurich:20260927T140000
 DTEND;TZID=Europe/Zurich:20260927T160000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260928T062552Z
 UID:20271105000037-ehcb-gshc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Genève-Servet
- te HC
+ te HC\nScore: 0-2
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
