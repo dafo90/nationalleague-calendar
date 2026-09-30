@@ -62,12 +62,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SCL Tigers
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - HC Lugano
+SUMMARY:SCL Tigers - HC Lugano (4-3)
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260930T062232Z
 UID:20271105000048-scl-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Lugano\nScore: 4
+ -3
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

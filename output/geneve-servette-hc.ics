@@ -63,12 +63,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: Genève-Servet
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - EHC Kloten
+SUMMARY:Genève-Servette HC - EHC Kloten (4-0)
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260930T062232Z
 UID:20271105000046-gshc-ehck@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: EHC Kloten
+ \nScore: 4-0
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT

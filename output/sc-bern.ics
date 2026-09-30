@@ -40,12 +40,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ajoie\nScore: 2-3 O
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - SC Bern
+SUMMARY:Fribourg-Gottéron - SC Bern (5-2)
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260930T062232Z
 UID:20271105000045-fri-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Bern\nSc
+ ore: 5-2
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT

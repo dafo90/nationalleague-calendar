@@ -61,12 +61,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: EHC Kloten\nScore: 3
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - EHC Biel-Bienne
+SUMMARY:ZSC Lions - EHC Biel-Bienne (6-3)
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260930T062232Z
 UID:20271105000049-zsc-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: EHC Biel-Bienne
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: EHC Biel-Bienne\nSco
+ re: 6-3
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT

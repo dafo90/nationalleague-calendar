@@ -61,12 +61,13 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: Lausanne HC\nScore: 4
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - HC Davos
+SUMMARY:HC Ambrì-Piotta - HC Davos (0-3)
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260930T062232Z
 UID:20271105000044-hcap-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Davos\nSco
+ re: 0-3
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT

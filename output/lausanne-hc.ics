@@ -52,12 +52,13 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: Lausanne HC\nScore: 4
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - Lausanne HC
+SUMMARY:HC Ajoie - Lausanne HC (3-0)
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20260930T062232Z
 UID:20271105000043-hca-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Lausanne HC\nScore: 3
+ -0
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT

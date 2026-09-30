@@ -40,13 +40,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EV Zug\nScore: 5-3
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - EV Zug
+SUMMARY:SC Rapperswil-Jona Lakers - EV Zug (2-5)
 DTSTART;TZID=Europe/Zurich:20260929T194500
 DTEND;TZID=Europe/Zurich:20260929T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20260930T062232Z
 UID:20271105000047-scrj-evz@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EV Z
- ug
+ ug\nScore: 2-5
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
