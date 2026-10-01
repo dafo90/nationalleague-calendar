@@ -73,13 +73,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: EHC Kloten
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - Genève-Servette HC
+SUMMARY:Lausanne HC - Genève-Servette HC (6-5 SO)
 DTSTART;TZID=Europe/Zurich:20260930T194500
 DTEND;TZID=Europe/Zurich:20260930T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261001T065825Z
 UID:20271105000067-lhc-gshc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Genève-Servette H
- C
+ C\nScore: 6-5 SO
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
