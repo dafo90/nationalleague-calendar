@@ -33,12 +33,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EV Zug\nScore: 3-2 O
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - HC Ambrì-Piotta
+SUMMARY:HC Lugano - HC Ambrì-Piotta (3-5)
 DTSTART;TZID=Europe/Zurich:20260926T194500
 DTEND;TZID=Europe/Zurich:20260926T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261002T064749Z
 UID:20271105000040-hcl-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ambrì-Piotta
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ambrì-Piotta\nSc
+ ore: 3-5
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
