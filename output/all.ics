@@ -466,49 +466,52 @@ DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: SCL Tigers\nS
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - Genève-Servette HC
+SUMMARY:SC Bern - Genève-Servette HC (2-3 SO)
 DTSTART;TZID=Europe/Zurich:20261002T194500
 DTEND;TZID=Europe/Zurich:20261002T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261003T060941Z
 UID:20271105000051-scb-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: Genève-Servette HC
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: Genève-Servette HC\nS
+ core: 2-3 SO
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - HC Ajoie
+SUMMARY:HC Davos - HC Ajoie (3-1)
 DTSTART;TZID=Europe/Zurich:20261002T194500
 DTEND;TZID=Europe/Zurich:20261002T214500
-DTSTAMP:20260804T192911Z
+DTSTAMP:20261003T060941Z
 UID:20271105000052-hcd-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: HC Ajoie\nScore: 3-1
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - Fribourg-Gottéron
+SUMMARY:EHC Kloten - Fribourg-Gottéron (1-4)
 DTSTART;TZID=Europe/Zurich:20261002T194500
 DTEND;TZID=Europe/Zurich:20261002T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261003T060941Z
 UID:20271105000053-ehck-fri@nationalleague.ch
 DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Fribourg-Gottéron
+ \nScore: 1-4
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - EHC Biel-Bienne
+SUMMARY:Lausanne HC - EHC Biel-Bienne (7-4)
 DTSTART;TZID=Europe/Zurich:20261002T194500
 DTEND;TZID=Europe/Zurich:20261002T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261003T060941Z
 UID:20271105000054-lhc-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EHC Biel-Bienne
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EHC Biel-Bienne\nS
+ core: 7-4
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - SC Rapperswil-Jona Lakers
+SUMMARY:HC Lugano - SC Rapperswil-Jona Lakers (5-2)
 DTSTART;TZID=Europe/Zurich:20261002T194500
 DTEND;TZID=Europe/Zurich:20261002T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261003T060941Z
 UID:20271105000055-hcl-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SC Rapperswil-Jona L
- akers
+ akers\nScore: 5-2
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT

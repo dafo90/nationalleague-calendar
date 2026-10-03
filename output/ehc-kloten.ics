@@ -72,12 +72,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: EHC Kloten
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - Fribourg-Gottéron
+SUMMARY:EHC Kloten - Fribourg-Gottéron (1-4)
 DTSTART;TZID=Europe/Zurich:20261002T194500
 DTEND;TZID=Europe/Zurich:20261002T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261003T060941Z
 UID:20271105000053-ehck-fri@nationalleague.ch
 DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Fribourg-Gottéron
+ \nScore: 1-4
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT

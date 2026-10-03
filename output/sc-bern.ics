@@ -50,12 +50,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Bern\nSc
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - Genève-Servette HC
+SUMMARY:SC Bern - Genève-Servette HC (2-3 SO)
 DTSTART;TZID=Europe/Zurich:20261002T194500
 DTEND;TZID=Europe/Zurich:20261002T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261003T060941Z
 UID:20271105000051-scb-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: Genève-Servette HC
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: Genève-Servette HC\nS
+ core: 2-3 SO
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT

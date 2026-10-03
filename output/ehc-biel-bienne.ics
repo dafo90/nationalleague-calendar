@@ -63,12 +63,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: EHC Biel-Bienne\nSco
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - EHC Biel-Bienne
+SUMMARY:Lausanne HC - EHC Biel-Bienne (7-4)
 DTSTART;TZID=Europe/Zurich:20261002T194500
 DTEND;TZID=Europe/Zurich:20261002T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261003T060941Z
 UID:20271105000054-lhc-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EHC Biel-Bienne
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EHC Biel-Bienne\nS
+ core: 7-4
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
