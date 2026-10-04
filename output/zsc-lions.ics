@@ -71,12 +71,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: EHC Biel-Bienne\nSco
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - Lausanne HC
+SUMMARY:ZSC Lions - Lausanne HC (3-2 OT)
 DTSTART;TZID=Europe/Zurich:20261003T194500
 DTEND;TZID=Europe/Zurich:20261003T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261004T063945Z
 UID:20271105000063-zsc-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Lausanne HC\nScore: 
+ 3-2 OT
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT

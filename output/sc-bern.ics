@@ -60,13 +60,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: Genève-Servette HC\nS
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - SC Bern
+SUMMARY:SC Rapperswil-Jona Lakers - SC Bern (4-3 OT)
 DTSTART;TZID=Europe/Zurich:20261003T194500
 DTEND;TZID=Europe/Zurich:20261003T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261004T063945Z
 UID:20271105000061-scrj-scb@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: SC B
- ern
+ ern\nScore: 4-3 OT
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

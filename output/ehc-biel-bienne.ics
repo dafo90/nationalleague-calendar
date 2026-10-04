@@ -73,12 +73,13 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EHC Biel-Bienne\nS
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - HC Davos
+SUMMARY:EHC Biel-Bienne - HC Davos (4-3)
 DTSTART;TZID=Europe/Zurich:20261003T194500
 DTEND;TZID=Europe/Zurich:20261003T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261004T063945Z
 UID:20271105000058-ehcb-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Davos\nScor
+ e: 4-3
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
