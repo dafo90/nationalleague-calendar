@@ -93,12 +93,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: Genève-Servette HC\nS
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - EV Zug
+SUMMARY:Genève-Servette HC - EV Zug (2-1)
 DTSTART;TZID=Europe/Zurich:20261004T140000
 DTEND;TZID=Europe/Zurich:20261004T160000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261005T063752Z
 UID:20271105000060-gshc-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: EV Zug\nSc
+ ore: 2-1
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
