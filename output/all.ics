@@ -594,12 +594,13 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Lugano\nScore:
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - HC Ajoie
+SUMMARY:Fribourg-Gottéron - HC Ajoie (7-2)
 DTSTART;TZID=Europe/Zurich:20261008T200000
 DTEND;TZID=Europe/Zurich:20261008T220000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261009T071147Z
 UID:20271105000066-fri-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Ajoie\nS
+ core: 7-2
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
