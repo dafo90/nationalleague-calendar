@@ -92,13 +92,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EHC Kloten\nScore:
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - SC Rapperswil-Jona Lakers
+SUMMARY:SCL Tigers - SC Rapperswil-Jona Lakers (3-0)
 DTSTART;TZID=Europe/Zurich:20261009T194500
 DTEND;TZID=Europe/Zurich:20261009T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261010T064627Z
 UID:20271105000069-scl-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Rapperswil-Jona 
- Lakers
+ Lakers\nScore: 3-0
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

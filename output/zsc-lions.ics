@@ -81,12 +81,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Lausanne HC\nScore:
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - ZSC Lions
+SUMMARY:HC Lugano - ZSC Lions (2-3 OT)
 DTSTART;TZID=Europe/Zurich:20261009T194500
 DTEND;TZID=Europe/Zurich:20261009T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261010T064627Z
 UID:20271105000068-hcl-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: ZSC Lions\nScore: 2-
+ 3 OT
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
