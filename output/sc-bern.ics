@@ -80,12 +80,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: EHC Biel-Bienne\nScore
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - SC Bern
+SUMMARY:HC Ambrì-Piotta - SC Bern (1-2 OT)
 DTSTART;TZID=Europe/Zurich:20261010T194500
 DTEND;TZID=Europe/Zurich:20261010T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261011T065354Z
 UID:20271105000072-hcap-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: SC Bern\nScor
+ e: 1-2 OT
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT

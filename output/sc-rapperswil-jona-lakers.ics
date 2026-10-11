@@ -103,13 +103,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Rapperswil-Jona
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - Lausanne HC
+SUMMARY:SC Rapperswil-Jona Lakers - Lausanne HC (1-4)
 DTSTART;TZID=Europe/Zurich:20261010T194500
 DTEND;TZID=Europe/Zurich:20261010T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261011T065354Z
 UID:20271105000076-scrj-lhc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Laus
- anne HC
+ anne HC\nScore: 1-4
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

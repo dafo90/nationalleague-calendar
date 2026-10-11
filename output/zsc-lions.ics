@@ -91,12 +91,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: ZSC Lions\nScore: 2-
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - Fribourg-Gottéron
+SUMMARY:ZSC Lions - Fribourg-Gottéron (5-4 OT)
 DTSTART;TZID=Europe/Zurich:20261010T194500
 DTEND;TZID=Europe/Zurich:20261010T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261011T065354Z
 UID:20271105000077-zsc-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Fribourg-Gottéron\n
+ Score: 5-4 OT
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
