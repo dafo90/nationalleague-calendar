@@ -713,12 +713,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: EV Zug\nScore: 1-3
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - HC Ajoie
+SUMMARY:Lausanne HC - HC Ajoie (6-3)
 DTSTART;TZID=Europe/Zurich:20261014T194500
 DTEND;TZID=Europe/Zurich:20261014T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261015T053839Z
 UID:20271105000138-lhc-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ajoie\nScore: 6
+ -3
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
