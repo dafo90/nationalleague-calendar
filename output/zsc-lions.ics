@@ -101,13 +101,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: Fribourg-Gottéron\n
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - SC Rapperswil-Jona Lakers
+SUMMARY:ZSC Lions - SC Rapperswil-Jona Lakers (6-3)
 DTSTART;TZID=Europe/Zurich:20261016T194500
 DTEND;TZID=Europe/Zurich:20261016T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261017T052310Z
 UID:20271105000083-zsc-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Rapperswil-Jona L
- akers
+ akers\nScore: 6-3
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT

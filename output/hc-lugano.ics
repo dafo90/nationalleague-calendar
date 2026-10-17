@@ -102,12 +102,12 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Lugano\nSco
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - HC Davos
+SUMMARY:HC Lugano - HC Davos (2-3)
 DTSTART;TZID=Europe/Zurich:20261016T194500
 DTEND;TZID=Europe/Zurich:20261016T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261017T052310Z
 UID:20271105000082-hcl-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Davos\nScore: 2-3
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT

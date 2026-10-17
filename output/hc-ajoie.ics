@@ -120,12 +120,13 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: HC Ajoie\nScore: 6
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - HC Ajoie
+SUMMARY:EHC Biel-Bienne - HC Ajoie (2-5)
 DTSTART;TZID=Europe/Zurich:20261016T194500
 DTEND;TZID=Europe/Zurich:20261016T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261017T052310Z
 UID:20271105000079-ehcb-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: HC Ajoie\nScor
+ e: 2-5
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT

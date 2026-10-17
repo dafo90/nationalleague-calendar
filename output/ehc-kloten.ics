@@ -111,12 +111,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: EV Zug\nScore: 1-3
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - HC Ambrì-Piotta
+SUMMARY:EHC Kloten - HC Ambrì-Piotta (0-5)
 DTSTART;TZID=Europe/Zurich:20261016T194500
 DTEND;TZID=Europe/Zurich:20261016T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261017T052310Z
 UID:20271105000081-ehck-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ambrì-Piotta
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ambrì-Piotta\nS
+ core: 0-5
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
