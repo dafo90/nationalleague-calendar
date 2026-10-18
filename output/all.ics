@@ -782,68 +782,70 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SC Rapperswil-Jona L
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - EV Zug
+SUMMARY:HC Ajoie - EV Zug (1-2)
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261018T053033Z
 UID:20271105000085-hca-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: EV Zug\nScore: 1-2
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - Genève-Servette HC
+SUMMARY:HC Ambrì-Piotta - Genève-Servette HC (6-3)
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261018T053033Z
 UID:20271105000086-hcap-gshc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Genève-Serve
- tte HC
+ tte HC\nScore: 6-3
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - ZSC Lions
+SUMMARY:HC Davos - ZSC Lions (1-5)
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260808T025519Z
+DTSTAMP:20261018T053033Z
 UID:20271105000087-hcd-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: ZSC Lions\nScore: 1-5
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - HC Lugano
+SUMMARY:Fribourg-Gottéron - HC Lugano (6-1)
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261018T053033Z
 UID:20271105000088-fri-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Lugano\n
+ Score: 6-1
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - EHC Biel-Bienne
+SUMMARY:SC Rapperswil-Jona Lakers - EHC Biel-Bienne (2-3)
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261018T053033Z
 UID:20271105000089-scrj-ehcb@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: EHC 
- Biel-Bienne
+ Biel-Bienne\nScore: 2-3
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - EHC Kloten
+SUMMARY:Lausanne HC - EHC Kloten (5-2)
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261018T053033Z
 UID:20271105000090-lhc-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EHC Kloten\nScore:
+  5-2
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - SC Bern
+SUMMARY:SCL Tigers - SC Bern (1-3)
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261018T053033Z
 UID:20271105000091-scl-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Bern\nScore: 1-3
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

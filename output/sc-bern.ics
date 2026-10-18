@@ -100,12 +100,12 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: Lausanne HC\nScore: 3-
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - SC Bern
+SUMMARY:SCL Tigers - SC Bern (1-3)
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261018T053033Z
 UID:20271105000091-scl-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Bern\nScore: 1-3
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

@@ -111,12 +111,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Davos\nScore: 2-3
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - HC Lugano
+SUMMARY:Fribourg-Gottéron - HC Lugano (6-1)
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261018T053033Z
 UID:20271105000088-fri-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Lugano\n
+ Score: 6-1
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT

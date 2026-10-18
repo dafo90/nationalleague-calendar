@@ -132,12 +132,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: Lausanne HC\nScore: 3-
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - EHC Kloten
+SUMMARY:Lausanne HC - EHC Kloten (5-2)
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261018T053033Z
 UID:20271105000090-lhc-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EHC Kloten\nScore:
+  5-2
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT

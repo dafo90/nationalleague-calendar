@@ -123,13 +123,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SCL Tigers
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - Genève-Servette HC
+SUMMARY:HC Ambrì-Piotta - Genève-Servette HC (6-3)
 DTSTART;TZID=Europe/Zurich:20261017T194500
 DTEND;TZID=Europe/Zurich:20261017T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261018T053033Z
 UID:20271105000086-hcap-gshc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Genève-Serve
- tte HC
+ tte HC\nScore: 6-3
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
