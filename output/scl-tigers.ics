@@ -131,12 +131,12 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: SC Bern\nScore: 1-3
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - SCL Tigers
+SUMMARY:SC Bern - SCL Tigers (1-3)
 DTSTART;TZID=Europe/Zurich:20261020T194500
 DTEND;TZID=Europe/Zurich:20261020T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261021T054726Z
 UID:20271105000093-scb-scl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: SCL Tigers
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: SCL Tigers\nScore: 1-3
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT

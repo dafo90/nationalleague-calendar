@@ -128,12 +128,12 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: ZSC Lions\nScore: 1-5
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - HC Davos
+SUMMARY:ZSC Lions - HC Davos (2-3)
 DTSTART;TZID=Europe/Zurich:20261020T194500
 DTEND;TZID=Europe/Zurich:20261020T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261021T054726Z
 UID:20271105000097-zsc-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Davos\nScore: 2-3
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT

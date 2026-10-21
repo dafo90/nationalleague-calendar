@@ -142,12 +142,13 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EHC Kloten\nScore:
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - Lausanne HC
+SUMMARY:EHC Kloten - Lausanne HC (4-3)
 DTSTART;TZID=Europe/Zurich:20261020T194500
 DTEND;TZID=Europe/Zurich:20261020T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261021T054726Z
 UID:20271105000096-ehck-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Lausanne HC\nScore:
+  4-3
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
