@@ -133,13 +133,13 @@ DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Fribourg-Gott
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - HC Ambrì-Piotta
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ambrì-Piotta (6-3)
 DTSTART;TZID=Europe/Zurich:20261023T194500
 DTEND;TZID=Europe/Zurich:20261023T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261024T053010Z
 UID:20271105000102-scrj-hcap@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
- mbrì-Piotta
+ mbrì-Piotta\nScore: 6-3
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

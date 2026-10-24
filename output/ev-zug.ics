@@ -78,12 +78,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: EV Zug\nScore: 1-2
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - Lausanne HC
+SUMMARY:EV Zug - Lausanne HC (4-1)
 DTSTART;TZID=Europe/Zurich:20261023T194500
 DTEND;TZID=Europe/Zurich:20261023T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261024T053010Z
 UID:20271105000105-evz-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: Lausanne HC\nScore: 4-1
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT

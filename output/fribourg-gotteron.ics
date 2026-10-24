@@ -133,13 +133,13 @@ DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Fribourg-Gott
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - EHC Biel-Bienne
+SUMMARY:Fribourg-Gottéron - EHC Biel-Bienne (6-3)
 DTSTART;TZID=Europe/Zurich:20261023T194500
 DTEND;TZID=Europe/Zurich:20261023T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261024T053010Z
 UID:20271105000101-fri-ehcb@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Biel-Bi
- enne
+ enne\nScore: 6-3
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
