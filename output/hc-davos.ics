@@ -146,12 +146,13 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Bern\nScore: 1-4
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - HC Davos
+SUMMARY:SCL Tigers - HC Davos (2-3 OT)
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261025T054753Z
 UID:20271105000112-scl-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Davos\nScore: 2-
+ 3 OT
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

@@ -161,12 +161,13 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: Lausanne HC\nScore: 4-1
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - Fribourg-Gottéron
+SUMMARY:Lausanne HC - Fribourg-Gottéron (2-0)
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261025T054753Z
 UID:20271105000111-lhc-fri@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Fribourg-Gottéron
+ \nScore: 2-0
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT

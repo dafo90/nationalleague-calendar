@@ -143,12 +143,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Biel-Bi
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - EV Zug
+SUMMARY:EHC Biel-Bienne - EV Zug (5-0)
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261025T054753Z
 UID:20271105000108-ehcb-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: EV Zug\nScore:
+  5-0
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT

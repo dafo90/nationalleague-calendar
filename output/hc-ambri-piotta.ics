@@ -143,12 +143,13 @@ DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - HC Ajoie
+SUMMARY:HC Ambrì-Piotta - HC Ajoie (3-0)
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261025T054753Z
 UID:20271105000106-hcap-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Ajoie\nSco
+ re: 3-0
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT

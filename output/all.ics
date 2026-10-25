@@ -975,49 +975,53 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: Lausanne HC\nScore: 4-1
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - HC Ajoie
+SUMMARY:HC Ambrì-Piotta - HC Ajoie (3-0)
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261025T054753Z
 UID:20271105000106-hcap-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Ajoie\nSco
+ re: 3-0
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - EV Zug
+SUMMARY:EHC Biel-Bienne - EV Zug (5-0)
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261025T054753Z
 UID:20271105000108-ehcb-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: EV Zug\nScore:
+  5-0
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - SC Rapperswil-Jona Lakers
+SUMMARY:EHC Kloten - SC Rapperswil-Jona Lakers (1-2)
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261025T054753Z
 UID:20271105000110-ehck-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: SC Rapperswil-Jona 
- Lakers
+ Lakers\nScore: 1-2
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - Fribourg-Gottéron
+SUMMARY:Lausanne HC - Fribourg-Gottéron (2-0)
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261025T054753Z
 UID:20271105000111-lhc-fri@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Fribourg-Gottéron
+ \nScore: 2-0
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - HC Davos
+SUMMARY:SCL Tigers - HC Davos (2-3 OT)
 DTSTART;TZID=Europe/Zurich:20261024T194500
 DTEND;TZID=Europe/Zurich:20261024T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261025T054753Z
 UID:20271105000112-scl-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Davos\nScore: 2-
+ 3 OT
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
