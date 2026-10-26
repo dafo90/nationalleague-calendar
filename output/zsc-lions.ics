@@ -139,12 +139,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: SCL Tigers\nScore: 3
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - ZSC Lions
+SUMMARY:Genève-Servette HC - ZSC Lions (1-5)
 DTSTART;TZID=Europe/Zurich:20261025T140000
 DTEND;TZID=Europe/Zurich:20261025T160000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261026T055046Z
 UID:20271105000109-gshc-zsc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: ZSC Lions
+ \nScore: 1-5
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT

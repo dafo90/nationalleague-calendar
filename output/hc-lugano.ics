@@ -141,12 +141,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EHC Kloten\nScore: 2
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - HC Lugano
+SUMMARY:SC Bern - HC Lugano (2-1 OT)
 DTSTART;TZID=Europe/Zurich:20261025T140000
 DTEND;TZID=Europe/Zurich:20261025T160000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261026T055046Z
 UID:20271105000107-scb-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Lugano\nScore: 2-1 
+ OT
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
