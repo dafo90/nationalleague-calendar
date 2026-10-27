@@ -2519,16 +2519,6 @@ DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: Genève-Serve
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - SC Rapperswil-Jona Lakers
-DTSTART;TZID=Europe/Zurich:20270116T194500
-DTEND;TZID=Europe/Zurich:20270116T214500
-DTSTAMP:20260725T115340Z
-UID:20271105000268-scb-scrj@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: SC Rapperswil-Jona Lak
- ers
-LOCATION:PostFinance Arena
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EHC Biel-Bienne - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20270116T194500
 DTEND;TZID=Europe/Zurich:20270116T214500
@@ -2563,6 +2553,16 @@ DTSTAMP:20260724T202404Z
 UID:20271105000273-evz-hcd@nationalleague.ch
 DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Davos
 LOCATION:OYM hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SC Bern - SC Rapperswil-Jona Lakers
+DTSTART;TZID=Europe/Zurich:20270117T140000
+DTEND;TZID=Europe/Zurich:20270117T160000
+DTSTAMP:20261027T060257Z
+UID:20271105000268-scb-scrj@nationalleague.ch
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: SC Rapperswil-Jona Lak
+ ers
+LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ZSC Lions - HC Ajoie
