@@ -153,12 +153,13 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Fribourg-Gottéron
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - HC Davos
+SUMMARY:Fribourg-Gottéron - HC Davos (3-1)
 DTSTART;TZID=Europe/Zurich:20261027T194500
 DTEND;TZID=Europe/Zurich:20261027T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261028T064141Z
 UID:20271105000024-fri-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Davos\nS
+ core: 3-1
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT

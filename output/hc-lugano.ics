@@ -151,12 +151,12 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Lugano\nScore: 2-1
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - HC Lugano
+SUMMARY:EV Zug - HC Lugano (7-2)
 DTSTART;TZID=Europe/Zurich:20261027T194500
 DTEND;TZID=Europe/Zurich:20261027T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261028T064141Z
 UID:20271105000119-evz-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Lugano\nScore: 7-2
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT

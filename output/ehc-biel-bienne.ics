@@ -153,13 +153,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: EV Zug\nScore:
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - EHC Biel-Bienne
+SUMMARY:HC Ambrì-Piotta - EHC Biel-Bienne (4-3 SO)
 DTSTART;TZID=Europe/Zurich:20261027T194500
 DTEND;TZID=Europe/Zurich:20261027T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261028T064141Z
 UID:20271105000113-hcap-ehcb@nationalleague.ch
 DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Biel-Bien
- ne
+ ne\nScore: 4-3 SO
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT

@@ -159,12 +159,13 @@ DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Ajoie\nSco
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - HC Ajoie
+SUMMARY:EHC Kloten - HC Ajoie (7-4)
 DTSTART;TZID=Europe/Zurich:20261027T194500
 DTEND;TZID=Europe/Zurich:20261027T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261028T064141Z
 UID:20271105000116-ehck-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ajoie\nScore: 7-
+ 4
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT

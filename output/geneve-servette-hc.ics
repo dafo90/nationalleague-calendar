@@ -163,13 +163,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: ZSC Lions
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - Genève-Servette HC
+SUMMARY:SC Rapperswil-Jona Lakers - Genève-Servette HC (1-2 OT)
 DTSTART;TZID=Europe/Zurich:20261027T194500
 DTEND;TZID=Europe/Zurich:20261027T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261028T064141Z
 UID:20271105000117-scrj-gshc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Gen
- ève-Servette HC
+ ève-Servette HC\nScore: 1-2 OT
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT

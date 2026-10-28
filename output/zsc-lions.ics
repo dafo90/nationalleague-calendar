@@ -149,12 +149,12 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: ZSC Lions
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - ZSC Lions
+SUMMARY:SC Bern - ZSC Lions (1-4)
 DTSTART;TZID=Europe/Zurich:20261027T194500
 DTEND;TZID=Europe/Zurich:20261027T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261028T064141Z
 UID:20271105000114-scb-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: ZSC Lions\nScore: 1-4
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
