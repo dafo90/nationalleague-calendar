@@ -163,12 +163,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: HC Davos\nS
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - Fribourg-Gottéron
+SUMMARY:SCL Tigers - Fribourg-Gottéron (4-2)
 DTSTART;TZID=Europe/Zurich:20261028T194500
 DTEND;TZID=Europe/Zurich:20261028T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261029T064903Z
 UID:20271105000133-scl-fri@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: Fribourg-Gottéron
+ \nScore: 4-2
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
