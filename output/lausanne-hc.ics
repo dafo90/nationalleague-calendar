@@ -181,12 +181,13 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SCL Tigers\nScore:
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - Lausanne HC
+SUMMARY:HC Lugano - Lausanne HC (4-0)
 DTSTART;TZID=Europe/Zurich:20261029T200000
 DTEND;TZID=Europe/Zurich:20261029T220000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261030T065231Z
 UID:20271105000124-hcl-lhc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Lausanne HC
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Lausanne HC\nScore: 
+ 4-0
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
