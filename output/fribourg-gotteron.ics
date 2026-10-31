@@ -173,13 +173,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: Fribourg-Gottéron
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - Genève-Servette HC
+SUMMARY:Fribourg-Gottéron - Genève-Servette HC (0-1)
 DTSTART;TZID=Europe/Zurich:20261030T194500
 DTEND;TZID=Europe/Zurich:20261030T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261031T064517Z
 UID:20271105000123-fri-gshc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Genève-Ser
- vette HC
+ vette HC\nScore: 0-1
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT

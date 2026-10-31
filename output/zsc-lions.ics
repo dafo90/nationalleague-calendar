@@ -158,12 +158,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: ZSC Lions\nScore: 1-4
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - HC Ambrì-Piotta
+SUMMARY:ZSC Lions - HC Ambrì-Piotta (4-3 SO)
 DTSTART;TZID=Europe/Zurich:20261030T194500
 DTEND;TZID=Europe/Zurich:20261030T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261031T064517Z
 UID:20271105000125-zsc-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambrì-Piotta
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambrì-Piotta\nSc
+ ore: 4-3 SO
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT

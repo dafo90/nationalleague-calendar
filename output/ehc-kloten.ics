@@ -171,12 +171,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Ajoie\nScore: 7-
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - EHC Kloten
+SUMMARY:EHC Biel-Bienne - EHC Kloten (4-2)
 DTSTART;TZID=Europe/Zurich:20261030T194500
 DTEND;TZID=Europe/Zurich:20261030T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261031T064517Z
 UID:20271105000121-ehcb-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: EHC Kloten\nSc
+ ore: 4-2
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT

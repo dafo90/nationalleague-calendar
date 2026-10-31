@@ -173,13 +173,13 @@ DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: Gen
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - SC Rapperswil-Jona Lakers
+SUMMARY:HC Davos - SC Rapperswil-Jona Lakers (4-3 SO)
 DTSTART;TZID=Europe/Zurich:20261030T194500
 DTEND;TZID=Europe/Zurich:20261030T214500
-DTSTAMP:20260808T025519Z
+DTSTAMP:20261031T064517Z
 UID:20271105000122-hcd-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Rapperswil-Jona La
- kers
+ kers\nScore: 4-3 SO
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
