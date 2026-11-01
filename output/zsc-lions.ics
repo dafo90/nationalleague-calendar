@@ -168,12 +168,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambrì-Piotta\nSc
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - ZSC Lions
+SUMMARY:EHC Kloten - ZSC Lions (0-4)
 DTSTART;TZID=Europe/Zurich:20261031T194500
 DTEND;TZID=Europe/Zurich:20261031T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261101T071213Z
 UID:20271105000130-ehck-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: ZSC Lions\nScore: 0
+ -4
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT

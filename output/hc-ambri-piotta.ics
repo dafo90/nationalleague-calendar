@@ -173,12 +173,13 @@ DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Ambrì-Piotta\nSc
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - HC Lugano
+SUMMARY:HC Ambrì-Piotta - HC Lugano (4-3)
 DTSTART;TZID=Europe/Zurich:20261031T194500
 DTEND;TZID=Europe/Zurich:20261031T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261101T071213Z
 UID:20271105000127-hcap-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Lugano\nSc
+ ore: 4-3
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT

@@ -183,13 +183,13 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: SC Rapperswil-Jona La
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - HC Ajoie
+SUMMARY:SC Rapperswil-Jona Lakers - HC Ajoie (2-4)
 DTSTART;TZID=Europe/Zurich:20261031T194500
 DTEND;TZID=Europe/Zurich:20261031T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261101T071213Z
 UID:20271105000131-scrj-hca@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: HC A
- joie
+ joie\nScore: 2-4
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
