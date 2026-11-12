@@ -180,12 +180,12 @@ DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: HC Lugano\nSc
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - SC Bern
+SUMMARY:HC Lugano - SC Bern (2-3)
 DTSTART;TZID=Europe/Zurich:20261111T194500
 DTEND;TZID=Europe/Zurich:20261111T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261112T080130Z
 UID:20271105000020-hcl-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: SC Bern\nScore: 2-3
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
