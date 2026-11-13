@@ -1268,12 +1268,13 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambrì-Piotta
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - ZSC Lions
+SUMMARY:EHC Biel-Bienne - ZSC Lions (3-4 SO)
 DTSTART;TZID=Europe/Zurich:20261112T200000
 DTEND;TZID=Europe/Zurich:20261112T220000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261113T074007Z
 UID:20271105000135-ehcb-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: ZSC Lions\nSco
+ re: 3-4 SO
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
