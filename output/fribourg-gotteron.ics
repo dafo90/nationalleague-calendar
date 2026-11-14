@@ -183,12 +183,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: Genève-Ser
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - Fribourg-Gottéron
+SUMMARY:SC Bern - Fribourg-Gottéron (4-3 SO)
 DTSTART;TZID=Europe/Zurich:20261113T194500
 DTEND;TZID=Europe/Zurich:20261113T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261114T072655Z
 UID:20271105000134-scb-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: Fribourg-Gottéron\nSc
+ ore: 4-3 SO
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT

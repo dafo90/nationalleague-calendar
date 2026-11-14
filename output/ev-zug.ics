@@ -133,13 +133,13 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambrì-Piotta
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - SC Rapperswil-Jona Lakers
+SUMMARY:EV Zug - SC Rapperswil-Jona Lakers (1-5)
 DTSTART;TZID=Europe/Zurich:20261113T194500
 DTEND;TZID=Europe/Zurich:20261113T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261114T072655Z
 UID:20271105000140-evz-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: EV Zug\nAway: SC Rapperswil-Jona Lake
- rs
+ rs\nScore: 1-5
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
