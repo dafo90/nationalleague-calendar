@@ -193,12 +193,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: Fribourg-Gottéron\nSc
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - EHC Kloten
+SUMMARY:Fribourg-Gottéron - EHC Kloten (2-4)
 DTSTART;TZID=Europe/Zurich:20261114T194500
 DTEND;TZID=Europe/Zurich:20261114T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261115T073839Z
 UID:20271105000143-fri-ehck@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Kloten
+ \nScore: 2-4
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT

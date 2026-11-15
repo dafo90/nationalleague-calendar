@@ -196,12 +196,12 @@ DESCRIPTION:National League\n\nHome: HC Davos\nAway: HC Ambrì-Piotta\nSco
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - HC Davos
+SUMMARY:HC Ajoie - HC Davos (6-3)
 DTSTART;TZID=Europe/Zurich:20261114T194500
 DTEND;TZID=Europe/Zurich:20261114T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261115T073839Z
 UID:20271105000141-hca-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Davos\nScore: 6-3
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
