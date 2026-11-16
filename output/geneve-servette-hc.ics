@@ -203,12 +203,13 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Bern\nS
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - Genève-Servette HC
+SUMMARY:EHC Kloten - Genève-Servette HC (3-5)
 DTSTART;TZID=Europe/Zurich:20261115T154500
 DTEND;TZID=Europe/Zurich:20261115T174500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261116T074408Z
 UID:20271105000137-ehck-gshc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: Genève-Servette HC
+ \nScore: 3-5
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
