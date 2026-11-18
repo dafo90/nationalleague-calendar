@@ -258,6 +258,15 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: HC Ambrì-
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EV Zug - HC Ambrì-Piotta
+DTSTART;TZID=Europe/Zurich:20261130T194500
+DTEND;TZID=Europe/Zurich:20261130T214500
+DTSTAMP:20261118T081750Z
+UID:20270009265106-evz-hcap@nationalleague.ch
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ambrì-Piotta
+LOCATION:OYM hall
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HC Ambrì-Piotta - SC Rapperswil-Jona Lakers
 DTSTART;TZID=Europe/Zurich:20261205T194500
 DTEND;TZID=Europe/Zurich:20261205T214500
