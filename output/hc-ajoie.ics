@@ -197,12 +197,12 @@ DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: HC Davos\nScore: 6-3
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - HC Ajoie
+SUMMARY:EV Zug - HC Ajoie (3-0)
 DTSTART;TZID=Europe/Zurich:20261118T194500
 DTEND;TZID=Europe/Zurich:20261118T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261119T082928Z
 UID:20271105000098-evz-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ajoie\nScore: 3-0
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
