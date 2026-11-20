@@ -1405,12 +1405,13 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ajoie\nScore: 3-0
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - ZSC Lions
+SUMMARY:Lausanne HC - ZSC Lions (2-5)
 DTSTART;TZID=Europe/Zurich:20261119T200000
 DTEND;TZID=Europe/Zurich:20261119T220000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261120T081146Z
 UID:20271105000151-lhc-zsc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: ZSC Lions
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: ZSC Lions\nScore: 
+ 2-5
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
