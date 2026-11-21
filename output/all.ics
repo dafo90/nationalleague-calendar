@@ -1415,49 +1415,52 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: ZSC Lions\nScore:
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - EHC Kloten
+SUMMARY:SC Bern - EHC Kloten (5-2)
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261121T080431Z
 UID:20271105000148-scb-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: EHC Kloten\nScore: 5-2
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers
+SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers (3-0)
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261121T080431Z
 UID:20271105000150-fri-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Rappersw
- il-Jona Lakers
+ il-Jona Lakers\nScore: 3-0
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - HC Ajoie
+SUMMARY:HC Lugano - HC Ajoie (2-3 SO)
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261121T080431Z
 UID:20271105000152-hcl-hca@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ajoie
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: HC Ajoie\nScore: 2-3
+  SO
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - HC Ambrì-Piotta
+SUMMARY:SCL Tigers - HC Ambrì-Piotta (6-4)
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261121T080431Z
 UID:20271105000153-scl-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ambrì-Piotta
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ambrì-Piotta\nS
+ core: 6-4
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - Genève-Servette HC
+SUMMARY:EV Zug - Genève-Servette HC (7-1)
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261121T080431Z
 UID:20271105000154-evz-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: Genève-Servette HC
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: Genève-Servette HC\nSc
+ ore: 7-1
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT

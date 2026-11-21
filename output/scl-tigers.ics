@@ -209,12 +209,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EHC Biel-Bienne\nSc
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - HC Ambrì-Piotta
+SUMMARY:SCL Tigers - HC Ambrì-Piotta (6-4)
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261121T080431Z
 UID:20271105000153-scl-hcap@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ambrì-Piotta
+DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ambrì-Piotta\nS
+ core: 6-4
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

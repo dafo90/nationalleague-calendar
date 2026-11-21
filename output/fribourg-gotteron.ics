@@ -203,13 +203,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EHC Kloten
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers
+SUMMARY:Fribourg-Gottéron - SC Rapperswil-Jona Lakers (3-0)
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261121T080431Z
 UID:20271105000150-fri-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Rappersw
- il-Jona Lakers
+ il-Jona Lakers\nScore: 3-0
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT

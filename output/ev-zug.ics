@@ -161,12 +161,13 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: HC Ajoie\nScore: 3-0
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EV Zug - Genève-Servette HC
+SUMMARY:EV Zug - Genève-Servette HC (7-1)
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261121T080431Z
 UID:20271105000154-evz-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EV Zug\nAway: Genève-Servette HC
+DESCRIPTION:National League\n\nHome: EV Zug\nAway: Genève-Servette HC\nSc
+ ore: 7-1
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT

@@ -193,12 +193,12 @@ DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: SC Bern\nS
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Bern - EHC Kloten
+SUMMARY:SC Bern - EHC Kloten (5-2)
 DTSTART;TZID=Europe/Zurich:20261120T194500
 DTEND;TZID=Europe/Zurich:20261120T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261121T080431Z
 UID:20271105000148-scb-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: SC Bern\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: SC Bern\nAway: EHC Kloten\nScore: 5-2
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
