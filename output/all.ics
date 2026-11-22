@@ -1464,48 +1464,53 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: Genève-Servette HC\nSc
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - Fribourg-Gottéron
+SUMMARY:HC Ajoie - Fribourg-Gottéron (2-1)
 DTSTART;TZID=Europe/Zurich:20261121T194500
 DTEND;TZID=Europe/Zurich:20261121T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261122T075100Z
 UID:20271105000155-hca-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: Fribourg-Gottéron\nS
+ core: 2-1
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - EV Zug
+SUMMARY:HC Ambrì-Piotta - EV Zug (4-3 OT)
 DTSTART;TZID=Europe/Zurich:20261121T194500
 DTEND;TZID=Europe/Zurich:20261121T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261122T075100Z
 UID:20271105000156-hcap-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EV Zug\nScore
+ : 4-3 OT
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - SC Bern
+SUMMARY:EHC Biel-Bienne - SC Bern (5-9)
 DTSTART;TZID=Europe/Zurich:20261121T194500
 DTEND;TZID=Europe/Zurich:20261121T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261122T075100Z
 UID:20271105000157-ehcb-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Bern\nScore
+ : 5-9
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Kloten - HC Davos
+SUMMARY:EHC Kloten - HC Davos (3-2)
 DTSTART;TZID=Europe/Zurich:20261121T194500
 DTEND;TZID=Europe/Zurich:20261121T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261122T075100Z
 UID:20271105000159-ehck-hcd@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Davos
+DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Davos\nScore: 3-
+ 2
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZSC Lions - HC Lugano
+SUMMARY:ZSC Lions - HC Lugano (4-1)
 DTSTART;TZID=Europe/Zurich:20261121T194500
 DTEND;TZID=Europe/Zurich:20261121T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261122T075100Z
 UID:20271105000161-zsc-hcl@nationalleague.ch
-DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Lugano
+DESCRIPTION:National League\n\nHome: ZSC Lions\nAway: HC Lugano\nScore: 4-
+ 1
 LOCATION:Swiss Life Arena
 END:VEVENT
 BEGIN:VEVENT

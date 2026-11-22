@@ -203,12 +203,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: EHC Biel-Bienne\nSc
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EHC Biel-Bienne - SC Bern
+SUMMARY:EHC Biel-Bienne - SC Bern (5-9)
 DTSTART;TZID=Europe/Zurich:20261121T194500
 DTEND;TZID=Europe/Zurich:20261121T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261122T075100Z
 UID:20271105000157-ehcb-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Bern\nScore
+ : 5-9
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
