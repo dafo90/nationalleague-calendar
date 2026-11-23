@@ -223,13 +223,13 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: Genève-Servette HC\nSc
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Genève-Servette HC - Lausanne HC
+SUMMARY:Genève-Servette HC - Lausanne HC (3-4 OT)
 DTSTART;TZID=Europe/Zurich:20261122T140000
 DTEND;TZID=Europe/Zurich:20261122T160000
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261123T084044Z
 UID:20271105000158-gshc-lhc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Genève-Servette HC\nAway: Lausanne H
- C
+ C\nScore: 3-4 OT
 LOCATION:Les Vernets
 END:VEVENT
 BEGIN:VEVENT

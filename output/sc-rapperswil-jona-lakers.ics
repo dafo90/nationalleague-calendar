@@ -223,13 +223,13 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: SC Rappersw
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - SCL Tigers
+SUMMARY:SC Rapperswil-Jona Lakers - SCL Tigers (5-2)
 DTSTART;TZID=Europe/Zurich:20261122T140000
 DTEND;TZID=Europe/Zurich:20261122T160000
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261123T084044Z
 UID:20271105000160-scrj-scl@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: SCL 
- Tigers
+ Tigers\nScore: 5-2
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
