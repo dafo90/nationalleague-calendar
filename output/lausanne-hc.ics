@@ -286,15 +286,6 @@ DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: EV Zug
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - Fribourg-Gottéron
-DTSTART;TZID=Europe/Zurich:20261216T194500
-DTEND;TZID=Europe/Zurich:20261216T214500
-DTSTAMP:20260724T202404Z
-UID:20271105000202-lhc-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Fribourg-Gottéron
-LOCATION:Vaudoise Aréna
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SCL Tigers - Lausanne HC
 DTSTART;TZID=Europe/Zurich:20261218T194500
 DTEND;TZID=Europe/Zurich:20261218T214500
@@ -366,6 +357,15 @@ DTSTAMP:20260725T115340Z
 UID:20271105000256-lhc-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Rapperswil-Jona
   Lakers
+LOCATION:Vaudoise Aréna
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lausanne HC - Fribourg-Gottéron
+DTSTART;TZID=Europe/Zurich:20270113T194500
+DTEND;TZID=Europe/Zurich:20270113T214500
+DTSTAMP:20261124T104327Z
+UID:20271105000202-lhc-fri@nationalleague.ch
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: Fribourg-Gottéron
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
