@@ -213,12 +213,13 @@ DESCRIPTION:National League\n\nHome: EHC Biel-Bienne\nAway: SC Bern\nScore
 LOCATION:Tissot Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - EHC Biel-Bienne
+SUMMARY:HC Lugano - EHC Biel-Bienne (3-6)
 DTSTART;TZID=Europe/Zurich:20261124T194500
 DTEND;TZID=Europe/Zurich:20261124T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261125T093901Z
 UID:20271105000166-hcl-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EHC Biel-Bienne
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EHC Biel-Bienne\nSco
+ re: 3-6
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT

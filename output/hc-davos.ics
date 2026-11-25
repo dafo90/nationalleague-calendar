@@ -215,12 +215,13 @@ DESCRIPTION:National League\n\nHome: EHC Kloten\nAway: HC Davos\nScore: 3-
 LOCATION:SWISS Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Davos - Genève-Servette HC
+SUMMARY:HC Davos - Genève-Servette HC (2-4)
 DTSTART;TZID=Europe/Zurich:20261124T194500
 DTEND;TZID=Europe/Zurich:20261124T214500
-DTSTAMP:20260804T192911Z
+DTSTAMP:20261125T093901Z
 UID:20271105000163-hcd-gshc@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Davos\nAway: Genève-Servette HC
+DESCRIPTION:National League\n\nHome: HC Davos\nAway: Genève-Servette HC\n
+ Score: 2-4
 LOCATION:VAT Arena
 END:VEVENT
 BEGIN:VEVENT

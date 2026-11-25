@@ -233,13 +233,13 @@ DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: SCL
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - SC Rapperswil-Jona Lakers
+SUMMARY:Lausanne HC - SC Rapperswil-Jona Lakers (4-3 SO)
 DTSTART;TZID=Europe/Zurich:20261124T194500
 DTEND;TZID=Europe/Zurich:20261124T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261125T093901Z
 UID:20271105000165-lhc-scrj@nationalleague.ch
 DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Rapperswil-Jona
-  Lakers
+  Lakers\nScore: 4-3 SO
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
