@@ -190,12 +190,13 @@ DESCRIPTION:National League\n\nHome: EV Zug\nAway: EHC Kloten\nScore: 3-1
 LOCATION:OYM hall
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fribourg-Gottéron - EV Zug
+SUMMARY:Fribourg-Gottéron - EV Zug (1-3)
 DTSTART;TZID=Europe/Zurich:20261126T194500
 DTEND;TZID=Europe/Zurich:20261126T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261127T092950Z
 UID:20271105000172-fri-evz@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EV Zug
+DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EV Zug\nSco
+ re: 1-3
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT

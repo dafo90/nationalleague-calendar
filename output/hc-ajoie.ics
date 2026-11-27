@@ -236,12 +236,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ajoie\nScore: 4-
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ajoie - EHC Biel-Bienne
+SUMMARY:HC Ajoie - EHC Biel-Bienne (4-3 OT)
 DTSTART;TZID=Europe/Zurich:20261126T194500
 DTEND;TZID=Europe/Zurich:20261126T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261127T092950Z
 UID:20271105000169-hca-ehcb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: EHC Biel-Bienne
+DESCRIPTION:National League\n\nHome: HC Ajoie\nAway: EHC Biel-Bienne\nScor
+ e: 4-3 OT
 LOCATION:Raiffeisen Arena
 END:VEVENT
 BEGIN:VEVENT
