@@ -239,12 +239,13 @@ DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: HC Ajoie\nScore: 4-
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - Genève-Servette HC
+SUMMARY:SCL Tigers - Genève-Servette HC (3-1)
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261128T084330Z
 UID:20271105000175-scl-gshc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: Genève-Servette HC
+ \nScore: 3-1
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT

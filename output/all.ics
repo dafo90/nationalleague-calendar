@@ -1623,49 +1623,53 @@ DESCRIPTION:National League\n\nHome: Fribourg-Gottéron\nAway: EV Zug\nSco
 LOCATION:BCF Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - EHC Kloten
+SUMMARY:HC Ambrì-Piotta - EHC Kloten (4-1)
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261128T084330Z
 UID:20271105000170-hcap-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Kloten\nS
+ core: 4-1
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SC Rapperswil-Jona Lakers - ZSC Lions
+SUMMARY:SC Rapperswil-Jona Lakers - ZSC Lions (4-5 SO)
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261128T084330Z
 UID:20271105000173-scrj-zsc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SC Rapperswil-Jona Lakers\nAway: ZSC 
- Lions
+ Lions\nScore: 4-5 SO
 LOCATION:St.Galler Kantonalbank Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lausanne HC - SC Bern
+SUMMARY:Lausanne HC - SC Bern (4-2)
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261128T084330Z
 UID:20271105000174-lhc-scb@nationalleague.ch
-DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Bern
+DESCRIPTION:National League\n\nHome: Lausanne HC\nAway: SC Bern\nScore: 4-
+ 2
 LOCATION:Vaudoise Aréna
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SCL Tigers - Genève-Servette HC
+SUMMARY:SCL Tigers - Genève-Servette HC (3-1)
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261128T084330Z
 UID:20271105000175-scl-gshc@nationalleague.ch
 DESCRIPTION:National League\n\nHome: SCL Tigers\nAway: Genève-Servette HC
+ \nScore: 3-1
 LOCATION:emmental versicherung arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - Fribourg-Gottéron
+SUMMARY:HC Lugano - Fribourg-Gottéron (4-3)
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261128T084330Z
 UID:20271105000180-hcl-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Fribourg-Gottéron\n
+ Score: 4-3
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT

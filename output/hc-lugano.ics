@@ -239,12 +239,13 @@ DESCRIPTION:National League\n\nHome: HC Lugano\nAway: EHC Biel-Bienne\nSco
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Lugano - Fribourg-Gottéron
+SUMMARY:HC Lugano - Fribourg-Gottéron (4-3)
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260724T202404Z
+DTSTAMP:20261128T084330Z
 UID:20271105000180-hcl-fri@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Fribourg-Gottéron
+DESCRIPTION:National League\n\nHome: HC Lugano\nAway: Fribourg-Gottéron\n
+ Score: 4-3
 LOCATION:Cornèr Arena
 END:VEVENT
 BEGIN:VEVENT

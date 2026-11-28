@@ -242,12 +242,13 @@ DESCRIPTION:National League\n\nHome: SC Bern\nAway: HC Ambrì-Piotta\nScor
 LOCATION:PostFinance Arena
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HC Ambrì-Piotta - EHC Kloten
+SUMMARY:HC Ambrì-Piotta - EHC Kloten (4-1)
 DTSTART;TZID=Europe/Zurich:20261127T194500
 DTEND;TZID=Europe/Zurich:20261127T214500
-DTSTAMP:20260725T115340Z
+DTSTAMP:20261128T084330Z
 UID:20271105000170-hcap-ehck@nationalleague.ch
-DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Kloten
+DESCRIPTION:National League\n\nHome: HC Ambrì-Piotta\nAway: EHC Kloten\nS
+ core: 4-1
 LOCATION:Gottardo Arena
 END:VEVENT
 BEGIN:VEVENT
